@@ -1,0 +1,1168 @@
+id,decision,exclusion_criterion,confidence,reasoning
+226ZBILB,Exclude,E2,100,"The study focuses on electricity demand forecasting in energy grids, which is outside the manufacturing domain."
+23DV84I5,Include,,95,"The abstract discusses an application in industrial environments, which falls under manufacturing."
+23HY5X6N,Exclude,E2,100,"The abstract discusses a federated learning framework applied to IoT networks in smart cities, not manufacturing."
+23VN6EMY,Exclude,E2,95,"The abstract clearly states the application is in IoT environments for cybersecurity, not manufacturing."
+24DNM3JB,Exclude,E2,95,"The paper focuses on cloud security in general, not manufacturing."
+24GLW4ND,Exclude,E2,95,"The paper focuses on supply chain disruption detection using deep learning in a digital twin framework, not specifically on federated learning applications in manufacturing."
+24V2YD2Y,Exclude,E2,95,"The abstract discusses cybersecurity systems in network streams, which is outside the manufacturing domain."
+264GPP7U,Exclude,E5,100,The abstract clearly states it is a systematic review without own contribution.
+28RKEIJJ,Exclude,E2,100,The abstract discusses ESG factors in industrial value chains using DGNNs but does not mention federated learning or manufacturing-specific applications of FL.
+29J3VEGY,Exclude,E2,100,The abstract clearly discusses federated learning applied in healthcare.
+29M56G7W,Include,,98,"The abstract discusses Federated Learning implementation within an IIoT framework for manufacturing processes, fitting the review scope on FL applications in manufacturing."
+2A8P6RWQ,Include,,100,The abstract clearly discusses federated learning in a manufacturing context.
+2AIMXDPZ,Exclude,E5,100,The abstract clearly states this is a survey without original contribution.
+2BLRRD82,Exclude,E5,100,The abstract explicitly states this is a systematic review without original contribution.
+2BQ7RUER,Exclude,E5,100,The abstract clearly states that the paper is a systematic literature review without presenting its own contribution.
+2CFTQT87,Include,,85,"The abstract discusses federated learning applied to lithography hotspot detection in semiconductor manufacturing, which falls within the scope of manufacturing industries."
+2DB3E8G7,Exclude,E2,95,"The abstract discusses noninvasive diabetes monitoring using sweat-based sensors and AI-driven biosensing systems, which is clearly outside the manufacturing domain."
+2GAC7ET4,Exclude,E5,90,The abstract clearly states this is a survey paper without own contribution.
+2GCYNV6C,Exclude,E2,95,"The application is explicitly stated as being in the domain of software testing, not manufacturing."
+2HD3ZH2M,Exclude,E2,100,The paper discusses a healthcare application with no mention of manufacturing.
+2HPY7AB9,Exclude,E2,95,The abstract discusses hydropower systems and does not mention manufacturing.
+2HQWFCWQ,Include,,85,"The abstract discusses federated learning in industrial Internet-of-Things (IIoT) domains, which falls under manufacturing contexts."
+2K222BF2,Exclude,E2,100,"The abstract discusses a swimming training methodology using reinforcement learning and digital twin technology, which is outside the manufacturing domain."
+2KH8ADQR,Exclude,E2,100,The abstract discusses cybersecurity in smart devices and does not mention manufacturing.
+2KVEST95,Exclude,E2,95,"The abstract discusses AI applications in smart cities related to energy efficiency, air quality, etc., which is outside manufacturing."
+2L7F52DC,Exclude,E2,80,The abstract focuses on edge caching using multi-agent reinforcement learning rather than federated learning in manufacturing.
+2MA9B8KT,Include,,90,The abstract does not clearly indicate that the application is outside of manufacturing or that it is a literature review without its own contribution.
+2MH2XYMV,Exclude,E2,85,"The paper focuses on a novel neural network architecture for human-machine collaboration, which is outside the scope of federated learning applications in manufacturing."
+2MSM8GRC,Include,,85,The abstract discusses federated learning but does not specify it is applied outside manufacturing or that models are transferable to manufacturing.
+2MTPHRVL,Exclude,E5,90,The abstract explicitly states it is a survey aiming to provide an overview of anomaly detection in EdgeAI.
+2NKN9IEA,Exclude,E2,100,"The abstract discusses a deep learning-based intrusion detection framework for IoT environments, which is outside the manufacturing domain."
+2NWKUL9L,Exclude,E2,100,"The abstract clearly states the application is in network security for ISPs, not manufacturing."
+2PHY5J39,Include,,95,The abstract discusses federated learning applied to smart manufacturing with IIoT data silos.
+2T49YMK6,Include,,95,The abstract discusses IoT applications in chip manufacturing but does not provide clear evidence that the FL application is outside of manufacturing or that it is a literature review without own contribution.
+2THEEY5F,Include,,85,"The abstract discusses federated learning in a closed-loop supply chain context involving manufacturing, without excluding transferability to other manufacturing scenarios."
+2TX8U9DR,Exclude,E2,100,"The abstract discusses federated learning in wireless telecommunications networks, not manufacturing."
+2VJLTSZ3,Exclude,E5,90,The abstract describes a literature review or survey without presenting its own novel contribution.
+2WRYVG65,Exclude,E2,95,"The abstract discusses 6G mobile networks and AI applications in network operations, which is outside the manufacturing domain."
+2X2PAS8V,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+2X9JMHT4,Exclude,E2,100,"The abstract discusses a CPS application in water treatment facilities, which is outside the manufacturing domain."
+2XJ7KU9A,Include,,100,The abstract does not mention federated learning or any application outside manufacturing.
+2XJUL2WR,Exclude,E2,95,"The abstract discusses anomaly detection and dropout rate estimation for 6G communication networks, which is outside the manufacturing domain."
+2XKF3RWQ,Exclude,E2,95,The abstract discusses IoT applications in industrial IoT but also mentions other domains like smart grid and intelligent transportation system without focusing on manufacturing.
+2Y55ZF6B,Include,,100,
+32W3PSU3,Exclude,E5,100,The abstract clearly states it is a survey without own contribution.
+32WN6AM2,Exclude,E2,95,The study focuses on recirculating aquaculture systems and does not discuss any transferable models to manufacturing industries.
+34Z6ZW3P,Include,,95,"The abstract discusses VFL applied to smart manufacturing and introduces a benchmark for it, fitting the review scope."
+357F638V,Include,,95,The abstract does not mention federated learning or other industries.
+36MI3LMS,Exclude,E2,95,"The paper focuses on federated learning applied to construction safety datasets and edge devices, not manufacturing industries."
+37CMCIVF,Exclude,E2,90,"FL application in cybersecurity, not manufacturing."
+37H9BF86,Include,,85,The abstract discusses applications in industrial IoT and autonomous systems which are relevant to manufacturing.
+39JIYCGS,Exclude,E5,90,The abstract clearly states that it is a survey paper reviewing Digital Twin technology without presenting original research or application.
+3AEYU2LJ,Exclude,E5,90,The abstract describes a survey and analysis of existing data space architectures without presenting new empirical research or implementation details.
+3B4C2K2C,Exclude,E2,95,The abstract discusses applications in medicine and other domains outside manufacturing.
+3B4N2A6I,Exclude,E2,95,The abstract discusses AI integration in Human-Robot Interaction (HRI) for manufacturing but does not mention federated learning.
+3D763AVG,Exclude,E2,95,"The study focuses on a novel intrusion detection model for cyber security, not manufacturing."
+3ER8TQF6,Include,,100,The abstract does not mention federated learning or any application outside manufacturing.
+3GFG46MS,Include,,95,"The abstract discusses an application of federated learning within manufacturing for defect detection, which falls under the review scope."
+3J4WCN7B,Exclude,E5,90,The abstract describes a literature review or survey of security threats and solutions for Wireless Sensor Networks without presenting an original application or model.
+3J7Z78H2,Exclude,E5,100,The abstract clearly states that this is a review presenting a taxonomy of manipulators without own contribution.
+3JBJKKI9,Exclude,E2,95,The abstract discusses IoT systems for consumer electronics and does not mention manufacturing.
+3JNBH44M,Include,,95,"The abstract discusses Federated Machine Learning (FedML) in the context of Industrial Internet of Things (IIoT), which is within manufacturing scope."
+3JQ83E28,Exclude,E5,90,The abstract describes a literature review and framework proposal without presenting an original empirical study or implementation.
+3KAIZA5P,Include,,95,"The abstract discusses federated learning applied to fault diagnosis in industrial settings, which falls within the scope of manufacturing applications."
+3KFSY2GU,Include,,80,The abstract discusses federated learning but does not specify its application outside manufacturing.
+3L2Q2PAL,Include,,95,The abstract does not specify an application outside manufacturing or provide a literature review without original contribution.
+3MIXZYQX,Include,,95,"The abstract does not mention federated learning or any other specific machine learning technique, let alone its application outside manufacturing."
+3MKWPQ9A,Exclude,E2,100,The abstract clearly discusses big data applications in healthcare.
+3N52CEQW,Exclude,E5,90,The abstract clearly states that this is a review synthesizing literature and field practices without presenting original research or implementation.
+3NA4HRIP,Exclude,E2,95,"The abstract discusses blockchain technology for military UAVs, which is outside manufacturing."
+3NQATZ2K,Exclude,E5,100,The abstract clearly states it is a review focusing on synthesizing recent advances and future directions in sustainable electrical machines.
+3NR3BL4V,Exclude,E2,95,The abstract clearly discusses federated learning applications in healthcare.
+3QCJW2ZN,Exclude,E2,95,"The abstract discusses Intrusion Detection Systems for in-vehicle buses, which is outside the manufacturing scope."
+3R5Q3CEG,Exclude,E5,90,
+3SEVF3Q5,Exclude,E5,90,The abstract clearly states that this is a review paper without presenting original research or models.
+3T28EMM5,Exclude,E2,95,The abstract clearly states that the paper focuses on healthcare applications.
+3V495KCY,Exclude,E5,100,The abstract explicitly states that it is a comprehensive evaluation and systematic approach to analyzing existing literature on Industry 5.0.
+3VTVX7KT,Exclude,E5,95,The abstract describes a literature review or survey without own contribution.
+3XX42HSH,Exclude,E2,100,"The abstract is clearly about blockchain technology in the fashion/garment sector, unrelated to federated learning or manufacturing applications."
+3ZNZI24I,Exclude,E2,95,The research focuses on enhancing CPS security for Industry 5.0 without mentioning federated learning or its application in manufacturing.
+44ISBVAT,Exclude,E2,95,"The abstract discusses federated learning in cybersecurity for IoT devices, not manufacturing."
+44N786HD,Exclude,E2,100,"The abstract discusses a security model for 5G networks, which is outside manufacturing."
+45B77XVJ,Exclude,E2,100,The abstract discusses cybersecurity applications without mentioning manufacturing.
+48GIQUWN,Exclude,E2,95,The abstract discusses IoT network security in general without mentioning manufacturing.
+48UIHVFJ,Include,,95,The abstract discusses an application in industrial IoT which falls within manufacturing scope.
+48ZYDTJZ,Exclude,E2,100,"The paper focuses on server performance anomaly detection in data centers or similar IT environments, not manufacturing."
+4B7YECQB,Exclude,E5,90,The abstract describes a literature review with no own contribution beyond proposing a conceptual model.
+4BAKJUXV,Exclude,E2,95,"The abstract discusses airport cybersecurity using Digital Twins and Generative AI, which is outside manufacturing."
+4BWNRBJM,Exclude,E2,100,"FL application is described for IoT authentication, not manufacturing."
+4BZ8BBQE,Exclude,E2,95,"The abstract clearly discusses FL application in smart cities' cybersecurity, not manufacturing."
+4EY4QWCA,Exclude,E2,100,The abstract clearly discusses cybersecurity applications without any mention of manufacturing.
+4FBSG7NP,Include,,100,"The abstract discusses federated learning in Industrial IoT, which is within the manufacturing scope."
+4FPGZMH3,Exclude,E5,100,This paper is a systematic literature review without presenting its own novel contribution.
+4GDX64AJ,Include,,95,The abstract clearly discusses an application of federated learning in smart manufacturing for anomaly detection.
+4J4EEP2K,Exclude,E2,95,"The paper focuses on 6G wireless networks and neuromorphic computing, not manufacturing."
+4KLE3W56,Exclude,E5,95,"The abstract describes a literature review or survey without own contribution, focusing on theoretical understanding and proposing a framework rather than presenting new empirical results."
+4KRI39WG,Exclude,E2,95,"The abstract discusses AI integration in 6G networks with a focus on communication and wireless technologies, not manufacturing."
+4LEPAMPV,Exclude,E2,100,The abstract clearly states the application of federated learning in an e-learning platform context.
+4LFGAPQC,Exclude,E2,95,"The case study and datasets are explicitly from Telecom analytics, not manufacturing."
+4M5ZGUJ4,Exclude,E2,100,The abstract discusses federated learning applied to energy prediction in smart homes.
+4M9K568Y,Exclude,E2,100,The abstract discusses cybersecurity for high-speed trains and does not mention manufacturing or federated learning.
+4MDJGQEP,Exclude,E2,100,"The abstract clearly discusses malware detection in Android-based IoT devices, which is outside the manufacturing domain."
+4NKRHVZL,Exclude,E2,100,The abstract discusses localization strategies in WSNs for applications outside manufacturing.
+4NS62PG3,Include,,85,The abstract does not mention federated learning or its application outside manufacturing.
+4QGK3K5L,Include,,100,The abstract does not specify an application domain outside manufacturing.
+4S5W5KAH,Exclude,E2,95,"The abstract mentions healthcare and autopilot as sensitive data-driven industrial scenarios, which fall outside manufacturing."
+4T5I4QMZ,Exclude,E2,100,The abstract clearly discusses a vehicular data collection framework with no mention of manufacturing.
+4T9G6G2T,Exclude,E5,100,The abstract describes a literature review or survey method without presenting any original research or application.
+4UGBIT8Z,Exclude,E2,95,The paper focuses on wireless communication and edge computing without mentioning federated learning in a manufacturing context.
+4WPZLQL4,Exclude,E5,100,The abstract clearly states that the paper is a bibliometric analysis and literature review of existing works on CRP.
+4X4PPHD4,Include,,100,"The abstract discusses a reference architecture for data spaces in manufacturing, which does not exclude it based on the given criteria."
+52GHRF9H,Include,,85,The abstract discusses federated learning in an industrial context but does not specify a concrete manufacturing application or transferable models to manufacturing from other sectors.
+53NFSG9J,Include,,75,"The paper discusses industrial IoT applications, which are within the scope of manufacturing."
+56ZPCH43,Exclude,E2,100,The paper focuses on IIoT security and privacy-preserving strategies without mentioning federated learning or its application in manufacturing.
+572Z2QKW,Include,,95,"The abstract discusses federated learning in a space security context but does not explicitly mention transferability to manufacturing, so it cannot be excluded based on E2 alone. It also presents original research rather than being a literature review."
+575HLE3R,Exclude,E2,100,"The abstract discusses a framework for chemical engineering construction projects, which is outside the manufacturing scope."
+57BNTSI2,Exclude,E2,95,"The abstract discusses fog computing applications in intelligent transportation systems, smart cities, and IoT, which are outside manufacturing."
+57EFH5LT,Exclude,E2,95,"The work focuses on IoT environments and intrusion detection, not manufacturing."
+57WXARML,Exclude,E2,95,The abstract clearly discusses applications in healthcare rather than manufacturing.
+59BGU88J,Exclude,E5,100,The abstract clearly states it is a state-of-the-art study and review without own contribution.
+59PSK3GI,Exclude,E2,95,"The abstract discusses IoT cybersecurity in smart cities, not manufacturing."
+5A33MZ8Z,Exclude,E2,95,"The abstract discusses IIoT in smart cities, not manufacturing."
+5ADT647V,Exclude,E2,95,"The abstract discusses energy management in buildings, which is outside manufacturing."
+5AP52GAZ,Exclude,E5,20,The abstract does not describe an original implementation or application of federated learning but rather discusses a theoretical framework and simulation results for resource management.
+5B32LWAB,Exclude,E2,95,"The abstract clearly discusses AI applications in the food industry, not manufacturing."
+5C7ZLYAZ,Exclude,E2,95,"The abstract discusses federated learning applied to cybersecurity in edge computing and IIoT, not manufacturing."
+5CBP4UP8,Exclude,E2,100,The paper discusses IoT security applications in healthcare and other domains outside manufacturing.
+5CFBEZH2,Exclude,E2,95,The abstract discusses cross-domain applications including healthcare and industrial automation but does not explicitly discuss transferable models to manufacturing.
+5DG2XSSU,Exclude,E5,100,The abstract describes a literature review or survey without own contribution.
+5DTBDXBE,Include,,95,The abstract discusses an application of federated learning in manufacturing industry specifically for industrial automation systems.
+5E4XJI24,Exclude,E5,95,The abstract explicitly states that the paper is a review of FL without presenting original research or application.
+5E8ALEYE,Exclude,E2,100,"The abstract discusses the application in distributed edge–cloud computing systems and smart city infrastructure services, which are outside manufacturing."
+5EF8ULPT,Include,,95,"The abstract describes a federated learning application in industrial defect detection, which falls within the scope of manufacturing."
+5ER4X4Z8,Include,,95,"The abstract discusses federated learning in the context of IIoT for Industry 4.0, which falls under manufacturing."
+5H4XKF9B,Include,,95,"The abstract discusses federated learning applied to predictive maintenance in manufacturing, fitting within the review scope."
+5JLFAQ8L,Exclude,E2,95,"The abstract discusses intrusion detection systems for network data analysis, which is outside the manufacturing domain."
+5JZJSNWT,Include,,95,The abstract discusses a Blockchain-based decentralized federated learning framework applied to Industry 4.0 use cases such as predictive maintenance and product visual inspection.
+5K4SAGSI,Include,,95,"The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution. It discusses an applied implementation in smart factories, which fall under manufacturing."
+5MC2PIWN,Exclude,E2,100,The abstract clearly states the application is in smart cities for air quality prediction.
+5MMYVF4V,Include,,85,The abstract discusses federated learning but does not specify its application outside manufacturing or provide a literature review without own contribution.
+5NJTQ6RP,Exclude,E2,95,"The paper focuses on intrusion detection systems for IoT networks, not manufacturing applications."
+5PHMCM9N,Exclude,E5,100,The abstract clearly states this is a literature review without own contribution.
+5PM58E4D,Include,,95,"The abstract describes an application within Industrial Internet of Things (IIoT) for localizing human operators in a manufacturing setting with robots, which falls under manufacturing."
+5QEBGXPD,Exclude,E2,85,The abstract mentions healthcare and does not discuss transferable models to manufacturing.
+5RJNSLXF,Exclude,E2,95,"The abstract clearly states that the work focuses on federated learning for network attacks detection in smart cities, which is outside manufacturing."
+5RZDFDQW,Include,,95,The abstract discusses FL in the context of Industrial Cyber–Physical Systems (ICPS) which is relevant to manufacturing.
+5SDCXNME,Include,,85,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+5SPVQ2IW,Exclude,E2,100,"The abstract clearly discusses AI/ML applications in nanomedicine, not manufacturing."
+5VIVTSFD,Exclude,E2,100,The abstract clearly discusses breast cancer and adoptive cell therapy in healthcare.
+5W4XGCMF,Exclude,E2,95,"The abstract discusses IoT and blockchain in agriculture, not manufacturing."
+5W9FXHX6,Exclude,E2,100,The abstract clearly states that the work is in healthcare surveillance.
+5WVF7ZBI,Exclude,E2,75,The abstract discusses an Adaptive Digital Twin framework integrated with Augmented Reality but does not mention federated learning being applied within a manufacturing context or any transferable models to manufacturing.
+5YB85U4Q,Exclude,E2,100,The paper discusses an AI framework for IoT data analytics but does not relate to federated learning in manufacturing.
+5YIL5GTQ,Exclude,E5,100,The abstract clearly states that this is a review paper without own contribution.
+5ZD9PVUD,Exclude,E2,100,"The abstract discusses federated learning applied to IoT security in telecommunications networks, not manufacturing."
+62TCJ6XG,Exclude,E2,95,The abstract clearly states the application of federated learning in healthcare.
+63B5NNQ4,Exclude,E2,100,The abstract discusses IoT security and does not mention manufacturing.
+63NYZD7B,Exclude,E2,100,The abstract discusses IoT security applications without mentioning manufacturing.
+64H7TA4E,Exclude,E2,95,The application is described for non-manufacturing domains like agriculture and emergency management.
+65DDBJKI,Exclude,E2,95,"The paper discusses FL applied to cybersecurity in IoT, not manufacturing."
+6639PZMG,Exclude,E2,95,"The abstract explicitly mentions application in healthcare and smart cities, not manufacturing."
+68294HM4,Exclude,E2,100,"The abstract discusses swarm robotics and blockchain technology in robotics, which is outside manufacturing."
+68RJ8HHW,Include,,70,The abstract does not specify an application outside manufacturing.
+69CPLI8L,Exclude,E5,90,The abstract clearly states that this is a review presenting an overview of RL algorithms for Metaverse applications without its own contribution.
+6B9IX6HC,Exclude,E2,95,The abstract explicitly mentions application in healthcare and financial risk control.
+6C48SSQS,Exclude,E2,95,"FL application is described for cybersecurity governance, not manufacturing."
+6DLNEIUD,Exclude,E2,100,"The abstract discusses wireless communication systems and spectrum prediction, which is outside the manufacturing domain."
+6EV2PJ7Z,Exclude,E2,100,"The abstract clearly states that federated learning is applied to parking management, which is outside manufacturing."
+6G6XVX9S,Exclude,E2,95,"The abstract discusses the application of federated learning or related concepts in UAVs, which is outside manufacturing."
+6G9SZ23T,Exclude,E2,95,"The study focuses on carbon emission accounting in the power grid supply chain, which is outside manufacturing."
+6IVXL87Q,Exclude,E5,90,
+6J7QVBUM,Exclude,E5,90,
+6KZ4S6MQ,Exclude,E2,95,"The abstract discusses a reinforcement learning approach applied to Zigbee networks in IoT, which is outside manufacturing."
+6LBVUR9C,Exclude,E2,95,The abstract discusses IoT cybersecurity and ensemble machine learning in a general context without mentioning manufacturing.
+6LFRZWN3,Exclude,E2,95,"The abstract discusses IoT security in the context of DDoS attacks, which is outside manufacturing."
+6LIJXYS9,Exclude,E5,100,The abstract clearly states this is a review of computational intelligence techniques in IoT reliability.
+6M4RWLJS,Include,,95,The abstract discusses federated learning in the context of Industry 4.0 and smart manufacturing.
+6PMZSERN,Exclude,E5,100,The abstract explicitly states it is a survey without own contribution.
+6SGHCCG5,Exclude,E5,90,The abstract clearly states that the paper is a comprehensive review of deep learning-based image anomaly detection techniques without presenting original research or novel contributions.
+6TRTUSMS,Exclude,E5,95,The abstract clearly states this is a systematic review without own contribution.
+6UQETPVH,Exclude,E2,95,"FL application outside manufacturing (healthcare, finance, etc.)"
+6X43DA6S,Exclude,E5,95,The abstract explicitly states it is a survey without own contribution.
+6X4KRE5V,Include,,95,"The abstract discusses a federated learning framework for IIoT intrusion detection in manufacturing, fitting the review scope on FL applications in manufacturing."
+6X7TBGXE,Include,,95,"The abstract discusses federated learning applied to IIoT in smart factories, which falls within manufacturing."
+6YHWPKID,Exclude,E5,100,The abstract describes a literature review without presenting original research or implementation.
+6YLBRS2K,Exclude,E2,95,"The abstract explicitly mentions application in healthcare, finance and industrial IoT."
+6YLG6UUS,Exclude,E2,95,"The abstract clearly states the application is in earth exploration and coastal monitoring using IIoT networks, not manufacturing."
+73WGXRXM,Exclude,E5,100,The abstract explicitly states it is a literature review without own contribution.
+74VX42V2,Exclude,E2,95,"The abstract clearly discusses federated learning in agriculture, not manufacturing."
+755MDMKG,Exclude,E2,100,"The abstract clearly discusses cybersecurity applications for IoT networks, which is outside the manufacturing domain."
+76GYPQP2,Include,,100,The abstract does not mention federated learning or any application outside manufacturing.
+76U73HEM,Exclude,E5,90,The abstract clearly states that it is a problem-driven survey without presenting original research or implementation.
+78UVWHIL,Exclude,E5,95,
+78W252KB,Exclude,E2,95,FL application outside of manufacturing in mobile AI.
+78ZW3WB7,Exclude,E2,95,The abstract clearly states the application is in healthcare (IoMT) with no mention of transferability to manufacturing.
+7AJK687B,Exclude,E5,90,The abstract clearly states it is a literature review proposing a tool to automate literature reviews.
+7CCRR6RU,Exclude,E5,100,The abstract clearly states that it is a review article focusing on technological innovations in Green AI without presenting its own original contribution.
+7DT5ZU9H,Exclude,E2,100,The abstract clearly discusses IoMT devices in healthcare.
+7EHGZURW,Include,,85,The abstract discusses federated learning applied to Industrial Internet of Things (IIoT) in manufacturing without mentioning other industries.
+7GGF3HZQ,Exclude,E2,95,Abstract explicitly discusses healthcare monitoring application.
+7GKI8GF5,Exclude,E2,95,The abstract clearly states the application of federated learning in healthcare for predicting brain age from neuroimaging data.
+7GVUUJV2,Exclude,E5,95,The abstract clearly states it is a bibliometric analysis and content analysis of existing literature without presenting original research or application.
+7HUMBYEK,Include,,95,The abstract discusses federated learning applied to predictive maintenance in manufacturing using industrial datasets.
+7HYIR8H8,Exclude,E5,90,The abstract describes a general paradigm for AI adoption in scientific research rather than presenting an applied implementation of federated learning in manufacturing.
+7HZVDDKU,Exclude,E2,100,The paper focuses on blockchain technology for secure IoT communication and does not discuss federated learning.
+7I42W4ZX,Include,,85,"The abstract discusses an AI-driven framework for quality control in 5G radio manufacturing, which falls within the scope of manufacturing applications."
+7KVJK3MG,Exclude,E2,95,The abstract clearly discusses federated learning applications in healthcare rather than manufacturing.
+7KYBJ763,Include,,95,"The abstract discusses a federated learning method applied in manufacturing service recommendations, which falls within the scope of manufacturing."
+7LMUBFN2,Exclude,E2,95,"The paper focuses on energy load forecasting and security in smart grid-based IIoT networks, not manufacturing."
+7LN3M5NV,Exclude,E2,100,"The abstract discusses AI application in film and television script creation, which is outside manufacturing."
+7M44E832,Include,,100,The abstract does not mention federated learning or any application outside of manufacturing.
+7MELZFN2,Exclude,E5,95,The abstract clearly states it is a comprehensive bibliometric analysis and review without presenting original research or application.
+7MF3IPHD,Exclude,E2,100,The abstract clearly describes an application in healthcare for pandemic alerting and monitoring.
+7Q6G3EUU,Exclude,E5,100,The abstract clearly states that it is a literature review without presenting any original research or contribution.
+7QDSEDDL,Exclude,E2,95,"The abstract discusses federated learning in the context of smart cities, not manufacturing."
+7QF737CS,Exclude,E2,95,The abstract discusses applications in civil engineering and construction with no mention of manufacturing or transferable models to manufacturing.
+7QX8DMMM,Exclude,E2,95,The abstract explicitly mentions healthcare as one of the application areas.
+7T799ZFR,Exclude,E5,90,The abstract describes a literature review covering testing methods for machine learning models without presenting original research or application.
+7UPRWUX3,Exclude,E5,95,The abstract clearly states this is a survey without original contribution.
+7VAIU7XZ,Exclude,E5,90,The abstract explicitly states it is a systematic review synthesizing findings from other papers.
+7WBD45KG,Include,,100,The abstract discusses federated learning in an IoT context but does not specify it is outside manufacturing or discuss transferable models to manufacturing.
+7X3P7VM9,Exclude,E2,100,"The abstract discusses electric vehicles and smart grids in the context of transportation, not manufacturing."
+7XKKMQ4W,Include,,98,"This abstract discusses the application of federated learning in a manufacturing context with multi-modal data sources, fitting within the review scope."
+7Z2I4CQ5,Exclude,E5,20,The abstract does not describe an applied implementation or novel research but rather outlines a general architecture and its theoretical benefits.
+7Z773XEB,Exclude,E2,95,"The abstract discusses federated learning in cybersecurity, not manufacturing."
+7Z8J33Y7,Exclude,E2,95,The abstract clearly discusses Personal Health Train (PHT) in healthcare context.
+7ZP4PJB7,Exclude,E2,95,The abstract clearly discusses AI applications in healthcare (nanomedicine for cancer theranostics) without any mention of transferability to manufacturing.
+848UX4HG,Exclude,E2,100,The abstract clearly states the research is about federated learning in healthcare.
+887JQIZG,Exclude,E2,100,The abstract clearly discusses IoMT in healthcare without any mention of manufacturing.
+88DK7R3W,Exclude,E2,95,Abstract discusses application of FL in medical industry.
+88M5GN9Y,Include,,75,The abstract does not mention federated learning or any application outside of manufacturing.
+88NZWTSE,Exclude,E2,100,"The abstract discusses smart grid cybersecurity using AI and blockchain, which is outside manufacturing."
+88VVYXND,Include,,100,"The abstract discusses smart factories and IIoT applications, which are within manufacturing."
+8A4HUC3F,Exclude,E5,100,The abstract clearly states it is a structured literature review and comparative analysis without own contribution.
+8AJUPJ7A,Exclude,E2,95,"The paper applies FedRL to scenarios in communication networks and smart grids, not manufacturing."
+8CD5DXIW,Exclude,E5,90,The abstract describes a literature review or survey without presenting original research or novel contribution.
+8CEPY2NF,Exclude,,0,The abstract does not mention federated learning or manufacturing applications.
+8FKFKFFY,Exclude,E2,95,"The paper focuses on IoT networks and real-time monitoring systems, not manufacturing."
+8GFTKXH2,Exclude,E2,98,"The abstract clearly discusses federated learning in the context of elderly healthcare, not manufacturing."
+8HCIHMQ3,Exclude,E2,95,The abstract discusses non-intrusive load monitoring (NILM) in an industrial context but does not mention federated learning or any transferable models to manufacturing.
+8I4UGWA5,Exclude,E2,100,"The abstract clearly states that the work is applied to SDN-based environments for intrusion detection, which is outside manufacturing."
+8I75ICB4,Exclude,E2,95,"The paper focuses on financial management challenges in grain enterprises, not manufacturing processes or federated learning applications relevant to manufacturing."
+8KC4HHKR,Exclude,E2,95,The abstract explicitly mentions real-world medical and industrial applications but focuses on the applicability to medical applications.
+8NDJCVLJ,Exclude,E2,100,The abstract clearly discusses financial applications of ML and DL.
+8PLE3L8Z,Exclude,E5,100,The abstract clearly states it is a review highlighting strategies and discussing applications in various fields without presenting original research or implementation.
+8QDEPGCS,Exclude,E2,100,The study focuses on education and uses ISBL in manufacturing as an example rather than applying FL to manufacturing.
+8QSQ66SA,Exclude,E5,100,The abstract explicitly states that this is a comprehensive review of edge computing research without presenting original empirical work or models.
+8RGS8JGT,Include,,85,"The abstract discusses an IIoT application in manufacturing (gas industry), which is within the scope of manufacturing."
+8RZILKWQ,Exclude,E2,80,The study focuses on cyber-attack detection for IIoT systems using deep learning methodologies without explicit mention of manufacturing or transferability to manufacturing.
+8S7KYCVS,Exclude,E2,100,The abstract clearly discusses a healthcare-related application of federated learning models.
+8TEPDNDH,Exclude,E5,95,The abstract describes a literature review or survey without own contribution.
+8UMRZK8A,Exclude,E2,100,The abstract discusses IIoT and botnet detection in an industrial context but does not mention federated learning or its application to manufacturing.
+8V5PMB9C,Exclude,E2,95,"The abstract clearly discusses federated learning applications in IoT DDoS detection, which is outside the manufacturing domain."
+8Z8TUABA,Exclude,E2,100,"The abstract discusses cybersecurity in smart cities, which is outside manufacturing."
+9235KUH7,Exclude,E2,100,The abstract discusses applications in health and industrial domains but does not specify manufacturing or transferability to manufacturing.
+927AJNXE,Exclude,E2,95,The paper focuses on a rural mobility use case for transportation systems rather than manufacturing.
+92TNXRMU,Exclude,E2,95,The abstract discusses federated learning applied to natural gas pipeline leak detection.
+94L5WK8E,Exclude,E2,100,The abstract clearly states the application of FL in healthcare domains such as Electronic Health Records (EHR) management.
+97IWVD3L,Include,,85,The abstract discusses manufacturing systems but does not mention federated learning or applications outside of manufacturing.
+988HMSVR,Exclude,E2,100,"The abstract discusses a system for university student entrepreneurial ventures, which is outside the manufacturing domain."
+98CAPWTD,Include,,95,The abstract discusses federated learning applied to predictive maintenance in manufacturing.
+98H3VQ95,Exclude,E5,95,The abstract states that the article surveys existing methods and paradigms without presenting its own novel contribution.
+9AXEZCJQ,Exclude,E5,100,The abstract clearly states that this paper is a survey focusing on adversarial machine learning across various industries.
+9B77YY88,Exclude,E5,100,The abstract describes a literature review or survey without own contribution.
+9BQPDEGH,Exclude,E2,100,"The abstract clearly states the application is in intelligent transportation systems and vehicular networks, not manufacturing."
+9EF43QF9,Exclude,E2,95,The abstract clearly states that the work is focused on the chemical industry.
+9GA3C7CH,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+9HRC7YX6,Include,,80,The abstract discusses Federated Learning in the context of Industrial Internet of Things (IIoT) applications relevant to manufacturing without focusing on other sectors.
+9HVH64R8,Include,,100,The abstract discusses federated learning in manufacturing without mentioning other industries.
+9HY282ZP,Exclude,,100,The abstract does not mention federated learning or manufacturing-specific applications of FL.
+9KEMGNLJ,Exclude,E2,100,"The paper discusses an AI-supported security architecture for cloud-fog computing, which is outside the scope of manufacturing applications."
+9LUHWTFW,Exclude,E2,30,"Federated learning is applied in IoT environments, which falls outside the manufacturing domain."
+9NKIZJ2W,Exclude,E2,95,"The abstract clearly states the application is in healthcare, environmental science, and other fields outside manufacturing."
+9NRUGEZA,Exclude,E2,90,The abstract discusses 5G network optimization for emergency services and does not relate to manufacturing.
+9UARHU5R,Exclude,E5,100,The abstract clearly states this is a survey without original contribution.
+9UH4Y4QE,Exclude,E2,95,"The study focuses on occupancy detection for HVAC and lighting systems in buildings, which is outside the scope of manufacturing industries."
+9V7NMWKG,Exclude,E2,100,The abstract clearly discusses an IoT healthcare application.
+9VAE4HII,Exclude,E2,30,The abstract mentions applications in healthcare and smart manufacturing but does not provide evidence that it discusses transferable models to manufacturing specifically.
+9VWM687T,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive review of ML applications in manufacturing with no mention of original research or novel contributions.
+9W6EAN57,Include,,95,"The abstract discusses federated learning applied to Industry 4.0 and manufacturing contexts, fitting within the review scope."
+9X7ACWGD,Exclude,E2,98,"FL application described for cybersecurity and IoT devices, not manufacturing."
+9XKXTI6A,Exclude,E2,100,"The abstract clearly discusses a fraud detection system in finance, not manufacturing."
+9YTN3PS4,Exclude,E2,100,The abstract clearly states the application is in privacy-sensitive domains such as healthcare and finance.
+A2MXP484,Include,,95,The abstract discusses federated learning applied to high-end manufacturing equipment maintenance.
+A2UHW9VT,Exclude,E5,90,The abstract clearly states that the paper is a review highlighting forensic and security issues in IoT with no specific new contribution or implementation details.
+A3DCY5W7,Exclude,E5,100,The abstract clearly states that it is a review article without its own contribution.
+A46N2BN4,Exclude,E2,100,"The abstract discusses IoT security and intrusion detection in a network context, which is outside manufacturing."
+A4KXNUSC,Include,,95,"The abstract does not mention federated learning or applications outside manufacturing that would warrant exclusion based on criteria E2 or E5. It focuses on distributed deep learning within the context of Industry 4.0 challenges in manufacturing, which aligns with the review's scope."
+A5BTKNUB,Exclude,E2,95,"The abstract clearly states the application is in IIoT malware detection for Android apps, not manufacturing."
+A5GBBYMR,Exclude,E2,95,The abstract discusses cloud computing and federated learning applications outside of manufacturing.
+A5GF2M3F,Exclude,E2,95,"The abstract discusses pharmaceutical technology and regulation, not manufacturing."
+A5WS6I5N,Exclude,E2,90,"The abstract discusses anomaly detection in vehicular ad hoc networks for transportation, not manufacturing."
+A7E8H8C3,Exclude,E2,50,The abstract discusses secure communication in Industrial Internet of Things (IIoT) but does not mention federated learning or its application in manufacturing.
+A99SMRDF,Exclude,E5,100,The abstract describes a literature review on ML applications in IoT without presenting original research.
+A9MG9ZMR,Exclude,E5,100,The abstract clearly states this is a review examining ethical issues in AI and the circular economy.
+AANPKJRI,Exclude,E2,30,The abstract discusses federated learning applied to extended reality (XR) systems rather than manufacturing.
+ACF4DZLW,Include,,95,The abstract discusses the application of Federated Learning in Industrial IoT (I-IoT) which falls within manufacturing scope.
+AEC4Z6UA,Exclude,E2,95,The abstract mentions healthcare applications for AI-IoT integration.
+AF2DIAC4,Include,,98,"The abstract describes a federated learning application for predictive maintenance in manufacturing, fitting the review scope."
+AFVNVIRN,Exclude,E2,30,The abstract discusses an IoT architecture with federated learning but does not mention any application in manufacturing.
+AHUQHV3E,Include,,95,"The abstract discusses federated learning applied in manufacturing, specifically in a hot strip mill process."
+AI7KLQEL,Include,,80,The abstract does not mention federated learning or applications outside manufacturing.
+AIEZHJKC,Include,,95,The abstract discusses an empirical study on federated learning applied to failure prediction in intelligent manufacturing.
+AILRFYW9,Exclude,E2,100,The abstract clearly states the study is about big data analytics in healthcare.
+AJADN2BP,Exclude,E2,95,"The abstract clearly discusses cybersecurity in energy systems, not manufacturing."
+ALAYL6UE,Exclude,E2,95,The abstract discusses federated learning applied to smart city applications rather than manufacturing.
+ALD8HPG5,Exclude,E2,95,The abstract clearly discusses an agricultural application rather than manufacturing.
+ALL2G5GG,Exclude,E5,100,The abstract clearly states it is a bibliometric review without original research contribution.
+AMS9N2SN,Include,,95,"The abstract discusses federated learning applied to IIoT systems in manufacturing, which falls within the scope of the review."
+AMWNCAEJ,Exclude,E2,98,"The abstract clearly discusses federated learning in the context of social media platforms, not manufacturing."
+AMYK3236,Exclude,E2,100,"The paper discusses 5G-based architecture for connected vehicles, which is outside the manufacturing domain."
+AN73XBRL,Exclude,E5,100,The abstract describes a literature review or survey without original contribution.
+APLJ26U9,Exclude,E2,95,"The paper discusses applications in healthcare monitoring and smart cities, which fall outside the scope of manufacturing."
+APM74VA4,Exclude,E5,100,The abstract clearly states this is a systematic literature review without original contribution.
+ARJRP3TR,Exclude,E2,100,"The abstract discusses fault detection and diagnosis in electric vehicles, which is outside the manufacturing scope of this review."
+ARZUJU6N,Exclude,E2,95,"The study applies FL to street vending carts, which is outside the manufacturing domain."
+AS6988KE,Exclude,E2,95,"The abstract discusses FML applications in healthcare and traffic management, which are outside manufacturing."
+ATCDYK2P,Include,,95,"The abstract discusses federated learning in the context of manufacturing railcars, which falls within the scope of manufacturing."
+AURB5MQE,Exclude,E5,100,The abstract clearly states this is a systematic literature review without own contribution.
+AVBTI6IM,Exclude,E2,95,The abstract discusses federated learning applied to 6G networks and does not mention manufacturing.
+AXZ8VX5T,Include,,70,Mentions federated learning as a future direction but does not describe it as an applied implementation outside manufacturing.
+AYFZ84Y7,Exclude,E5,100,"The abstract explicitly states this is an overview article analyzing uncertainties around FL, indicating it is a literature review without original contribution."
+AYXBV9R7,Exclude,E2,95,"The abstract discusses IoT security and machine learning applications for intrusion detection, which is outside the manufacturing domain."
+AZN682H4,Exclude,E2,95,"The application domain is clearly stated as emerging metaverse experiences and XR sessions, not manufacturing."
+AZVPAXXE,Exclude,E2,90,"The abstract discusses Federated Reinforcement Learning applied to edge-cloud systems for streaming applications, which is outside the manufacturing domain."
+B254RASP,Include,,90,The abstract discusses cybersecurity in manufacturing-related IoT but does not mention federated learning or its transferability to manufacturing.
+B27CFN9K,Exclude,E5,90,The abstract explicitly states it is a literature review and does not mention any original contribution.
+B2F4Q6CW,Exclude,E5,100,The abstract clearly states it is a review of 20 years of research on quantum algorithms for scheduling problems.
+B5TS35T4,Include,,95,The abstract discusses federated learning in an industrial context addressing privacy concerns and data fragmentation issues.
+B6TGH28E,Exclude,E5,90,The abstract clearly states that the paper is a comprehensive review of AI-based IDS solutions with no original contribution beyond synthesis and taxonomy.
+B725QZBR,Exclude,E2,98,"The paper focuses on federated learning for intrusion detection in cyber security, not manufacturing."
+B76MQS2S,Exclude,E2,95,The abstract explicitly mentions healthcare monitoring as an application area.
+B7JNGWVU,Exclude,E2,95,The abstract discusses anomaly detection in IoT systems for smart factories but does not provide evidence of a federated learning application specific to manufacturing or transferable models to manufacturing.
+B7U3GLHS,Exclude,E2,100,"The abstract discusses power grid applications in Kenya, which is outside manufacturing."
+B7U9ZPTQ,Exclude,E2,95,"The abstract discusses AI applications in food, fragrance, and healthcare industries, which are outside manufacturing."
+B7XSE8XF,Exclude,E5,95,The abstract explicitly states it is a literature review without own contribution.
+B7XXVWIZ,Exclude,E2,100,"The paper focuses on cloud computing and load balancing in a multi-cloud environment, not on federated learning applications within manufacturing."
+BB2LSZX3,Exclude,E2,95,"The abstract clearly states that the research is applied in humanitarian logistics and emergency situations, not manufacturing."
+BBGDA3NY,Exclude,E5,90,
+BCSQ5G5B,Include,,95,"The abstract discusses federated learning in IIoT applications within manufacturing, which falls under the scope of manufacturing industries."
+BDFJI5V8,Exclude,E2,95,
+BDZTXST7,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+BE5PD4YB,Include,,95,"The abstract discusses federated learning applied within the automotive industry, which is a manufacturing sector. There's no indication that it focuses on other industries or is merely a literature review without original contribution."
+BEGC93YT,Exclude,E2,10,The abstract focuses on cloud computing security and data optimization in ICS without mentioning federated learning.
+BGL5AVZB,Exclude,E5,100,The abstract describes a literature review without presenting original research or new contributions.
+BH89FTP8,Exclude,E5,95,The abstract clearly states this is a review paper without own contribution.
+BHJVPDKD,Include,,95,"The abstract discusses federated learning in an industrial IoT context specifically within a water treatment plant, which falls under manufacturing."
+BJKGRYN2,Exclude,E2,95,The abstract clearly discusses a healthcare application of the proposed security framework.
+BLGAX3E4,Exclude,E2,85,The research focuses on deep reinforcement learning applications rather than federated learning in manufacturing.
+BLMEAAD6,Exclude,E2,95,"The abstract discusses waste management in smart cities using federated learning, which is outside manufacturing."
+BMJMWPZD,Include,,95,The abstract does not provide clear evidence of an FL application outside manufacturing or a literature review without own contribution.
+BNDNQTDR,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+BP7M56JK,Include,,95,"The abstract discusses federated learning (FL) within the context of Industry 4.0 and IIoT, which falls under manufacturing."
+BPWWXM3S,Exclude,E5,90,The abstract describes a literature review or survey of existing approaches and introduces a new algorithm without applying it to any specific domain like manufacturing.
+BQCCZGAX,Exclude,E2,100,The abstract clearly states that the paper focuses on medical applications and PPG sensors in healthcare.
+BR3NELBN,Exclude,E2,100,The abstract clearly discusses IoMT in healthcare.
+BRYFV84E,Exclude,E5,90,The abstract clearly states that this is a systematic review of publicly available network traffic capture-based datasets without presenting any original research or contribution.
+BSPGBPQT,Exclude,E2,95,The abstract mentions applications in Medical IoT (MIoT) and does not discuss transferable models to manufacturing.
+BTDRKXIX,Exclude,E5,100,The abstract clearly states that this is a review article providing an overview of cybersecurity in 5G-IoT networks without presenting any original research or implementation.
+BU33GR2T,Exclude,E2,95,"The paper discusses defect detection in power lines, which is outside the manufacturing scope."
+BW4QESYI,Exclude,E2,30,"This paper focuses on network control systems and wireless sensor networks in the context of detecting wormhole attacks, which is outside the manufacturing domain."
+BWJ6A4RI,Exclude,E2,95,"The abstract clearly states the application is in disability employment matching, not manufacturing."
+BWREZ4WI,Include,,85,"The abstract discusses federated learning applied in an IIoT context for industrial maintenance and anomaly detection, which falls within manufacturing."
+BWWTKE45,Include,,90,The abstract does not mention any specific implementation of federated learning in manufacturing or other industries.
+BXYIDVUB,Exclude,E2,95,"The abstract discusses federated learning applied to drone networks in IIoT, not manufacturing."
+BZK4DUN3,Include,,100,The abstract does not mention an application outside manufacturing or state it is a literature review.
+BZQK7ZW5,Exclude,E5,90,The abstract clearly states this is a survey without own contribution.
+C26I8KGU,Exclude,E5,90,The abstract clearly states that this is a review of research initiatives in urban informatics without presenting original empirical work.
+C2LBSW33,Include,,95,The abstract discusses a federated learning layer in an industrial IoT context but does not provide clear evidence of its application outside manufacturing or indicate it is a literature review.
+C3VTI85G,Exclude,E2,95,"The abstract discusses AI applications in Carbon Capture, Utilization, and Storage (CCUS) for decarbonizing sectors like cement and steel production, which is outside manufacturing scope."
+C4WR8EDM,Exclude,E2,85,The abstract discusses IIoT security in general without specific mention of federated learning or its application to manufacturing.
+C5VFGT72,Exclude,E2,100,The abstract discusses AI and nanotechnology applications in healthcare for neurodegenerative diseases.
+C5Y3ZL4P,Exclude,E2,95,"The abstract discusses IoT security in general, with no mention of manufacturing applications or transferable models to manufacturing."
+C645WB3H,Exclude,E5,100,The abstract describes a literature review or survey without own contribution.
+C682CYV4,Include,,75,The abstract discusses federated learning in a general context without specifying an application outside manufacturing.
+C6GVPKC5,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive survey without presenting any original research or application.
+C774P4E5,Exclude,E2,100,"The abstract discusses use cases in healthcare, energy, smart transportation, and smart cities, which are outside manufacturing."
+C89WCQU2,Include,,95,"The abstract discusses the application of federated learning in an industrial setting (airport baggage conveyor systems), which falls within the scope of manufacturing."
+C8ZQU83G,Include,,85,The abstract discusses federated learning in a real-world quality inspection setting within manufacturing.
+C9P5FK3L,Include,,85,The abstract does not mention federated learning being applied outside manufacturing or indicate it is a literature review without own contribution.
+C9YXCK7I,Include,,95,"The abstract discusses digital twins and predictive maintenance in logistics using IoT and ML, but does not mention federated learning or applications outside manufacturing that would warrant exclusion under E2. It is also an original research paper, not a literature review for criterion E5."
+CAP5UCY7,Exclude,E2,95,The abstract discusses applications in healthcare systems and other non-manufacturing sectors.
+CBAY7JPB,Exclude,E2,95,The abstract mentions applications in personalized healthcare outside manufacturing.
+CBNBL63Q,Exclude,E2,100,The abstract discusses applications in healthcare and autonomous vehicles outside of manufacturing.
+CCWXVTGK,Include,,85,"The abstract discusses applications in IoT and industrial interconnection scenarios, which are relevant to manufacturing."
+CDREVBF4,Exclude,E5,90,The abstract explicitly states this is a systematic review without own contribution.
+CEJQW4KS,Include,,95,The abstract discusses federated learning applied in manufacturing for machining process optimization.
+CFCV595B,Exclude,E2,100,"Federated learning is applied to marine vehicles, not manufacturing."
+CFFYJTWX,Include,,95,"The abstract discusses federated learning applied to intrusion detection in IIoT ecosystems, which is related but not manufacturing-specific unless it explicitly mentions transferable models to manufacturing, which it does not."
+CIL9FCMI,Exclude,E5,100,The abstract clearly states it is a systematic literature review without own contribution.
+CIUBEIXD,Include,,85,"The abstract discusses federated learning in the context of industry 5.0, which is relevant to manufacturing."
+CJ9XKK6D,Exclude,E5,95,The abstract explicitly states it is a survey without own contribution.
+CJEWF5PX,Exclude,E5,100,This paper is a survey and taxonomy of FL+LLM in manufacturing without presenting its own original research or implementation.
+CJH7EPQA,Exclude,E2,95,The abstract discusses an application in cybersecurity/IoT rather than manufacturing.
+CJLUS6QH,Exclude,E2,100,"The abstract discusses data cleaning and preprocessing in a mobile edge environment using BlueEdge, but does not mention manufacturing or any transferable models to manufacturing."
+CL74N3ZG,Exclude,E5,100,The abstract clearly states this is a survey without own contribution.
+CLQ5MBD4,Exclude,E5,100,The abstract explicitly states it is a systematic literature review with no own contribution.
+CM34JBM9,Exclude,E5,90,The abstract describes a literature review or survey without presenting its own original contribution.
+CM4RCI8A,Exclude,E2,70,"The paper focuses on a TinyML-driven self-healing framework for 6G wireless networks with a case study in a smart factory, which is outside the scope of general manufacturing applications."
+CNRSWGUL,Include,,95,The abstract does not specify an application outside manufacturing.
+CNUSJ998,Exclude,E5,100,The abstract clearly states this is a systematic review without own contribution.
+CQL55MAR,Include,,100,The abstract does not mention federated learning or its application outside manufacturing.
+CST8ZG2E,Exclude,E2,95,"The paper focuses on federated learning for satellite-IoT frameworks in space communication, not manufacturing."
+CSXPJIZ4,Exclude,E2,100,The abstract discusses federated learning in the pharmaceutical industry.
+CTQW45WN,Exclude,E2,95,"The paper focuses on privacy-preserving mechanisms for visual crowdsensing, which is outside the scope of manufacturing."
+CUL2V4T8,Exclude,E2,100,"The abstract discusses security analysis in short video networks, which is outside the manufacturing domain."
+CV3IP956,Include,,100,The abstract does not specify any non-manufacturing application or literature review without original contribution.
+CV74KDA4,Include,,95,The abstract discusses federated learning in the context of smart manufacturing and does not focus on other industries like healthcare or finance.
+CVI7GDYP,Exclude,E2,100,The abstract clearly states the application of federated learning in sectors outside manufacturing such as healthcare and finance.
+CVRDIMI9,Include,,95,"The abstract discusses an application in smart factories and warehouses, which falls under manufacturing."
+CVXGVZUI,Exclude,E2,95,"The abstract discusses a CTI system for cybersecurity in finance and IoT, outside manufacturing."
+CX65S8FU,Exclude,E2,100,"The abstract discusses a federated learning application in wireless networks for intrusion detection, which is outside the manufacturing domain."
+CXE3GWEL,Exclude,E2,100,The abstract clearly discusses healthcare applications using IoMT and does not mention manufacturing.
+CXE3SFJA,Include,,85,The abstract discusses a federated learning application specifically for smart manufacturing with IoT and edge devices.
+CXIZ2J6F,Exclude,E2,95,"The abstract focuses on cybersecurity solutions for IIoT and machine learning algorithms, without mentioning federated learning or manufacturing applications."
+CXRSEU6N,Exclude,E5,100,The abstract clearly states this is a review focusing on trends and tools in GenAI across various industries.
+CYIIGCTQ,Include,,85,The abstract does not mention federated learning or any application outside manufacturing.
+CZLUD6TH,Exclude,E2,95,"The paper discusses federated learning in VEHICULAR EDGE COMPUTING, not manufacturing."
+CZQ5XQR6,Include,,95,"The abstract discusses the application of federated learning in an IIoT context within manufacturing environments, which aligns with the review's scope."
+D23KDN49,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+D3X2E99S,Exclude,E2,95,"The abstract clearly states the application is for smart cities including healthcare, transportation, energy, and surveillance systems."
+D5HBT46P,Exclude,E2,100,"FL application is explicitly stated to be for MaaS, not manufacturing."
+D74KJVMW,Exclude,E2,95,"The application is clearly stated to be in occupational health and safety and environmental monitoring, not manufacturing."
+D9FCEMTG,Exclude,E2,95,"The abstract discusses a study deployed in the professional organizing industry, which is outside manufacturing."
+DA4GM56Q,Exclude,E5,0,This paper is a literature review without presenting its own novel contribution.
+DAC7SKX8,Exclude,E2,95,"The abstract discusses an application in accounting, which is outside manufacturing."
+DDELQPXZ,Exclude,E2,100,The abstract clearly discusses an application in healthcare using fog computing.
+DDIBMX4W,Exclude,E2,95,"The study focuses on IoT and edge computing for action detection, not manufacturing."
+DDLX7P83,Exclude,E5,90,The abstract explicitly states it is a non-systematic literature review without own contribution.
+DDWX6BYX,Include,,95,"This abstract discusses the application of federated learning for condition monitoring in ultrasonic metal welding, which falls within the manufacturing domain."
+DE7GIHKT,Exclude,E2,95,"The abstract focuses on applications within Internet of Everything (IoE), specifically battery life prediction for sensors, which is not related to manufacturing industries."
+DFDZS483,Include,,100,The abstract discusses federated learning in manufacturing through digital twins without excluding it.
+DGQYGLNK,Exclude,E2,100,The abstract discusses IoT cybersecurity in a non-manufacturing context.
+DI5G7J8Q,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+DI9LQHSQ,Exclude,E2,95,"The abstract focuses on edge computing, job scheduling, and security for the Internet of Everything (IoE), which is outside the scope of manufacturing."
+DIY99Z3U,Exclude,E5,100,The abstract describes a literature review or survey without presenting its own novel contribution.
+DJ8SLUN9,Exclude,E5,90,The abstract describes a literature review without presenting original research or contributions.
+DLJUCY3E,Exclude,E5,100,The abstract describes a general overview and literature review of machine learning applications across various sectors without presenting any specific new contribution.
+DMRQ8L7R,Include,,95,"The abstract discusses federated learning applied to predictive maintenance in industrial IoT, which is within the manufacturing scope."
+DNJ76RXD,Exclude,E5,90,The abstract clearly states that the paper is a review of GenAI applications in manufacturing without presenting original research or implementation details.
+DNW84WAN,Exclude,E2,100,"The abstract discusses an IoT security solution (SIML) applied to smart devices, which is outside manufacturing."
+DPJ9ZFEG,Include,,95,"The abstract discusses a federated learning application for process monitoring in manufacturing industries, specifically mentioning aluminum electrolysis as an example."
+DQMRK7RC,Exclude,E2,100,The abstract explicitly states FL is used in finance and healthcare.
+DTX8B3RR,Include,,95,"The abstract discusses federated learning within the context of Industrial Internet of Things (IIoT), which is relevant to manufacturing industries."
+DVRRKREG,Include,,98,"The abstract discusses a federated learning approach applied to fault diagnosis in manufacturing processes, fitting the review scope on FL applications in manufacturing."
+E3NTV2BH,Include,,95,"The abstract clearly discusses federated learning applied in ceramic tile manufacturing, which is within the scope of manufacturing."
+E4KB6KD5,Include,,95,The abstract discusses federated learning in the context of Industrial IoT but does not specify an applied implementation in manufacturing or a literature review without own contribution.
+E7RBAPXM,Exclude,E2,100,"The abstract discusses Edge AI applications in healthcare, smart homes, industrial IoT, autonomous vehicles, and retail."
+E9GXAAAG,Exclude,E2,95,"The paper focuses on mobile communication security and performance prediction using FL, not manufacturing applications."
+EBNKTQUZ,Exclude,E5,90,The abstract describes a literature review or survey of DDoS detection methods and proposes a new model without conducting an original empirical study.
+EBZG8I64,Exclude,E2,95,"The abstract discusses federated learning applied to DDoS detection in IoT networks, which is outside the manufacturing domain."
+EC2TUTUX,Exclude,E2,100,The abstract discusses applications in healthcare and Industry 4.0 but does not explicitly mention transferable models to manufacturing.
+ECDMAMDF,Exclude,E5,20,The abstract does not describe an applied implementation of federated learning in manufacturing or any other industry. It is focused on a new consensus protocol for blockchain networks.
+ECNJRHQL,Include,,95,"The abstract discusses federated learning applied to Industrial Internet of Things (IIoT) radar sensing systems, which falls within manufacturing scope."
+EDQ6USZQ,Include,,100,The abstract does not mention an application outside manufacturing or indicate it is a literature review.
+EJHWIXBV,Exclude,E5,100,The abstract clearly states this is a literature review without own contribution.
+EJIL3HXT,Exclude,E5,100,The abstract clearly states that it is a systematic review without presenting original research or findings.
+EJMPPEVT,Exclude,E5,100,The abstract clearly states it is a systematic review of literature on German energy transition without presenting original research.
+EKNC8YUK,Exclude,E2,95,"The abstract clearly states that the work is about federated learning for battery fault detection in electric vehicles, not manufacturing."
+ELLSEHQ3,Exclude,E2,100,The abstract clearly states the application is in healthcare.
+EP6L2QPG,Exclude,E5,90,
+EPND8XRG,Exclude,E2,95,"The abstract discusses network security and DDoS attack detection in IoT, not manufacturing."
+ERIDEXL9,Exclude,E2,100,The abstract clearly states that the paper focuses on non-intrusive appliance load monitoring (NALM) for household electricity usage.
+ETGXEBYM,Include,,95,"The abstract discusses an Edge-assisted Federated Learning (EFL) framework applied to Industrial IoT (IIoT), which falls within the manufacturing domain."
+ETN7WE5L,Exclude,E5,90,The abstract clearly states that the paper is a survey reviewing developments and identifying research priorities without presenting its own new contribution.
+EVRRST6T,Include,,95,The abstract does not clearly indicate an application outside manufacturing or state it is a literature review without original contribution.
+EWSX2FX3,Include,,95,"The abstract discusses federated learning applied in an industrial setting, specifically for predictive maintenance using weld images from a Kaggle dataset, which falls within manufacturing scope."
+EWXA67JA,Exclude,E2,95,The abstract discusses a mobility-aware TSCH framework for mobile IIoT but does not mention federated learning or manufacturing applications.
+EZ867NNV,Exclude,E5,90,The abstract explicitly states it is a systematic literature review without own contribution.
+EZEV7YBG,Exclude,E5,100,The abstract explicitly states it is an extensive literature review without presenting original research or application.
+EZGJTZFU,Exclude,E2,95,"The application is in tobacco warehousing surveillance, not manufacturing."
+EZJQ4MK9,Exclude,E2,100,The abstract clearly discusses an application of FL in healthcare.
+EZM2MP9K,Exclude,E2,95,"The abstract clearly states that the paper focuses on intrusion detection systems in cybersecurity, not manufacturing."
+F22YC5TG,Exclude,E5,90,The abstract clearly states this is a literature review without own contribution.
+F32ZQXYI,Exclude,E2,95,"The paper focuses on financial risk assessment, which is outside the scope of manufacturing."
+F3J5WX5R,Exclude,E2,90,The abstract discusses a security model for IoT networks with no mention of manufacturing or transferable models to manufacturing.
+F3MJ38BP,Exclude,E2,100,"The abstract discusses cloud-based and serverless infrastructures for financial ecosystems, which is outside manufacturing."
+F4JTSMSZ,Include,,95,The abstract does not mention federated learning being applied outside manufacturing or provide evidence that it is a literature review without original contribution.
+F5L8QXC2,Exclude,E5,100,The abstract clearly states that it is a systematic literature review without presenting its own empirical contribution.
+F5NKKBTR,Exclude,E5,100,The abstract clearly states that this is a bibliometric review expanding on a previous systematic literature review.
+F6EHSW4S,Include,,85,The abstract discusses federated learning in an industrial context but does not specify that it is applied within manufacturing or that its models are transferable to manufacturing.
+F7IKEK3D,Include,,85,"The abstract mentions potential use cases in manufacturing, which suggests that the paper may discuss transferable models to manufacturing even if it covers other industries initially."
+F7IXZZYV,Exclude,E2,100,"The abstract discusses traffic forecasting in wireless mesh networks, which is outside the manufacturing domain."
+F97WQG9V,Include,,100,The abstract discusses IIoT in manufacturing without mentioning federated learning or applications outside manufacturing.
+F98R4UDL,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+F9JCUCK8,Include,,70,The abstract discusses an application in industrial IoT (IIoT) which is related to manufacturing but does not explicitly exclude transferability to manufacturing. There's no clear evidence that this falls under another industry scope.
+FAUF3ZGI,Exclude,E2,100,The abstract clearly discusses AI applications in biotechnology and healthcare.
+FBJTPYFX,Exclude,E5,100,The abstract clearly states this is a survey without original contribution.
+FBM6CCWT,Exclude,E2,100,"The abstract discusses VANETs in Intelligent Transportation Systems, which is outside manufacturing."
+FBSDXDMI,Include,,100,The abstract discusses federated learning in the context of Supply Chain Industry 4.0 but does not provide evidence that it is applied outside manufacturing without relevance to manufacturing.
+FD9IS8P3,Include,,90,The abstract does not mention federated learning or any specific application outside manufacturing.
+FDJYNIS6,Exclude,E5,100,The abstract clearly states that this is a bibliometric analysis without own contribution.
+FDM4UN43,Exclude,E5,100,The abstract clearly states this is a literature review/survey without original contribution.
+FEWH39IU,Exclude,E2,95,"FL application in IoT routing security, not manufacturing."
+FFHW3ZC8,Include,,85,"The paper discusses federated learning applied to industrial data from MEMS foundries and predictive maintenance datasets, fitting within the scope of manufacturing applications."
+FGK5V96K,Exclude,E2,95,"The paper focuses on IoT data storage and security using blockchain in a cloud-centric structure, not manufacturing."
+FHI3GH9V,Exclude,E2,100,The paper focuses on blockchain technology rather than federated learning.
+FHZM93VG,Include,,90,The abstract does not mention federated learning or any specific implementation outside manufacturing that would require exclusion based on the given criteria.
+FI3NCUVI,Exclude,E2,85,"FL application outside manufacturing (healthcare, finance, etc.) unless they explicitly discuss transferable models to manufacturing."
+FIF9H8JX,Include,,95,The abstract discusses a federated learning approach in manufacturing for predicting machining outcomes without sharing raw data.
+FIWX2FFP,Include,,95,The abstract discusses federated learning in a manufacturing context with real-time applications.
+FJDUUHBC,Include,,92,This abstract discusses collaborative learning within manufacturing without mentioning federated learning or applications outside of manufacturing.
+FK3EEP5Z,Exclude,E2,95,The research focuses on cybersecurity applications for IoT devices and does not mention any manufacturing context or transferable models to manufacturing.
+FK6W54PZ,Include,,95,"The abstract discusses a federated learning framework applied specifically to smart manufacturing, fitting within the review's scope on FL in manufacturing."
+FLII8GGU,Exclude,E2,100,"The abstract discusses trust management in shared vehicle data systems, which is outside the manufacturing domain."
+FLJJAH7F,Exclude,E2,90,"The abstract focuses on FL application in cybersecurity for industrial IoT, not manufacturing."
+FLK9M3F2,Exclude,E5,100,The abstract clearly states this is a survey on green edge AI without presenting original research.
+FNIXHCUJ,Exclude,E5,90,The abstract describes a literature review or theoretical analysis without presenting an original application.
+FR7JVFRY,Exclude,E5,100,The abstract clearly states that this is a survey paper without presenting any new contribution.
+FS9H9IEM,Exclude,E2,90,The abstract describes an application in IoT scenarios with no mention of manufacturing.
+FSYCUC88,Exclude,E5,100,The abstract explicitly states it is an extensive survey on the application of FL models in DTs for smart city applications.
+FTBI4JEQ,Exclude,E2,100,The abstract clearly states that the paper is about deep learning applications in medical image analysis.
+FUBK8GZX,Include,,85,The abstract discusses federated learning applied to backorder prediction in supply chain management within manufacturing industries.
+FW7MHR56,Exclude,E2,95,"The paper focuses on neuroscience and BCIs, not manufacturing."
+FW9DKSUZ,Exclude,E5,90,The abstract clearly states that this is a survey paper without presenting original research or application.
+FWKK3XH8,Exclude,E2,100,The abstract discusses federated learning in commercial environments but does not specify manufacturing as a context.
+FZ8V2P9I,Exclude,,0,The abstract does not mention federated learning or any transferable models to manufacturing from other industries.
+G4CX7MTQ,Exclude,E5,100,The abstract describes the concept of edge computing and its benefits without presenting any original research or implementation.
+G666DGSV,Exclude,E2,95,"The paper discusses a federated learning framework for logistics risk management, not manufacturing."
+G7ZANKQP,Exclude,E2,50,The abstract discusses federated learning applied to IoT security threats rather than manufacturing.
+G828EAUK,Include,,98,The abstract clearly discusses federated learning applied in an industrial defect detection context within manufacturing.
+GAT9U2NK,Exclude,E2,100,"The abstract discusses AI-based intrusion detection systems for network security, which is outside the manufacturing domain."
+GAWJVPLC,Include,,95,"The abstract discusses federated learning in the context of smart factories, which falls under manufacturing. There is no clear evidence that this paper is a literature review without its own contribution."
+GDUBCSQP,Exclude,E2,100,The abstract discusses IoT security and does not mention manufacturing.
+GEXTSJ77,Include,,95,"The abstract discusses industrial case studies in manufacturing (Bosch factories and aircraft component predictions), so it is within the scope of manufacturing."
+GFN5DWA5,Include,,100,The abstract does not mention federated learning or any application outside manufacturing.
+GFS27NCA,Exclude,E5,100,The abstract clearly states this is a bibliometric analysis without original research contribution.
+GGKH9A6A,Include,,85,The abstract discusses Federated Learning in an IIoT context which is relevant to manufacturing.
+GGYB5WA8,Exclude,E5,95,The abstract explicitly states it is a survey without own contribution.
+GIQA3HI5,Exclude,E2,95,The abstract discusses an application in critical infrastructure using IoT systems and does not mention manufacturing.
+GKSXDIVQ,Exclude,E2,95,"The abstract clearly states the application is in healthcare, agriculture, and industry but focuses on IoT cybersecurity rather than federated learning in manufacturing."
+GL6WJ487,Exclude,E2,95,"The abstract discusses AI applications in irrigated agriculture, not manufacturing."
+GMP8J7HZ,Include,,85,"The abstract discusses applications including smart factories, which falls under manufacturing."
+GNENII8F,Exclude,E2,95,The abstract discusses supply chain sustainability in general without mentioning manufacturing specifically or transferable models to manufacturing.
+GNGZYR69,Exclude,E5,90,The abstract describes an algorithm improvement for blockchain in satellite networks but does not mention federated learning or manufacturing applications.
+GPBVRDH8,Include,,95,"The abstract describes an application of federated learning in smart manufacturing, which falls within the scope of the review."
+GQTLW2XQ,Exclude,E5,90,The abstract clearly states that the paper is a comprehensive overview with no own contribution.
+GR5QQKEA,Include,,95,"The abstract discusses a federated learning-based graph neural network model for IIoT applications in manufacturing, which falls within the scope of the review."
+GSWJFGTG,Exclude,E2,100,"The abstract mentions that federated learning is used for Google's keyboard Gboard, indicating an application outside manufacturing."
+GT3SUZH9,Exclude,E2,95,"The abstract discusses a federated learning application in cloud resource management for large-scale cloud providers like Google and Alibaba, which is outside the manufacturing domain."
+GTQ8F2VZ,Include,,100,The abstract discusses a federated learning application in manufacturing for cross-plant process monitoring.
+GU3X84ST,Exclude,E2,95,The abstract discusses federated learning applied to Wireless Sensor Networks (WSNs) rather than manufacturing.
+GU5S5NQV,Include,,85,"The abstract discusses a federated transfer learning framework for smart manufacturing with cross-domain applications, which fits the review scope."
+GV9DZJRG,Exclude,E2,95,The abstract discusses a cybersecurity application in Industry 4.0 but does not explicitly address transferability to manufacturing.
+GZY2KYNC,Exclude,E2,100,"The abstract discusses IoT devices and privacy preservation models for securing data in cloud-server domains, which is outside manufacturing."
+H2R6E3NT,Exclude,E5,100,The abstract describes a literature review without presenting original research or application.
+H3MLN7IH,Exclude,E5,90,The abstract explicitly states it is a literature review with no original contribution.
+H53QZLK4,Exclude,E2,100,The abstract discusses sleep monitoring using multi-modal sensors and AI in healthcare.
+H6MFACB5,Include,,95,The abstract discusses a federated learning framework for IIoT environments in manufacturing contexts like smart factories and power grids.
+H76DWP8Y,Exclude,E2,95,The abstract mentions applications in healthcare and other industries outside manufacturing without specifying transferable models to manufacturing.
+H7LDCEMN,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive review with no own contribution.
+H8GVYFYR,Exclude,E2,95,"The paper discusses federated learning applied to mobile edge computing for optimizing computation offloading decisions, not manufacturing."
+H8X7K546,Include,,95,"The abstract discusses federated learning within an industrial context, specifically for anomaly detection with privacy preservation, which aligns with the review's scope on FL applications in manufacturing."
+H956N2FH,Include,,95,"The abstract discusses federated learning in semiconductor manufacturing, which falls within the scope of manufacturing industries."
+HD95EUQF,Exclude,E2,100,The abstract clearly states the application is in smart healthcare IoT systems.
+HDNMSFYZ,Exclude,E2,95,"The abstract mentions applications in 'smart healthcare' among others, which falls outside manufacturing."
+HDRSQTJV,Exclude,E5,100,The abstract describes a survey categorizing multi-view learning methods without presenting original research or application.
+HEEH45S4,Exclude,E2,100,"The abstract clearly discusses battery health diagnostics in the context of lithium-ion batteries, which is outside manufacturing."
+HEEIEIT8,Exclude,E2,100,"The abstract discusses ship and offshore structures, which is outside manufacturing scope."
+HG8YCHZV,Exclude,E2,100,The abstract clearly discusses mobility management in 5G networks and does not mention manufacturing or transferable models to manufacturing.
+HGPGY6VG,Exclude,E5,100,The abstract clearly states it is a state-of-the-art review without own contribution.
+HGSTXVKY,Include,,50,The abstract does not provide clear evidence of being a literature review without own contribution or an application outside manufacturing.
+HGV4NLIS,Include,,95,"The abstract discusses an application relevant to smart factories and intelligent manufacturing environments, which falls within the scope of manufacturing."
+HHQ8RFGB,Exclude,E5,100,The abstract explicitly states that the study is a bibliometric analysis without presenting original research or implementation.
+HHSY2J2D,Exclude,E2,100,"The paper focuses on intrusion detection using HQNN for IoT devices, which is outside the scope of manufacturing applications."
+HK3HSP9X,Exclude,E2,100,The abstract clearly states the work is about healthcare sector digital transformation and security.
+HKIPAWRM,Include,,95,The abstract discusses industrial applications of machine learning without mentioning federated learning or other exclusion criteria.
+HL2YXVYA,Exclude,E5,100,The abstract clearly states that the study is a bibliometric analysis without presenting original empirical or theoretical contributions.
+HLNSZCF2,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+HMD98WQH,Exclude,E2,95,"The abstract discusses federated learning in the context of energy transition and housing, which is outside manufacturing."
+HT2ZC4QD,Exclude,E2,95,"The abstract discusses FGMR-AEC in the context of telepresence, extended reality, and metaverse applications, which are outside manufacturing."
+HU3BE2Y3,Include,,80,The abstract does not specify an application outside manufacturing.
+HUWVWD9U,Exclude,E2,100,The abstract clearly states the application is in driving safety and not manufacturing.
+HV5QDV83,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without its own contribution.
+HYBABXFX,Exclude,E2,95,"The paper focuses on green AI for circular economies with applications in lithium-ion battery recycling and urban waste management, outside of manufacturing."
+HYQCL7T2,Exclude,E2,95,"The abstract discusses IIoT integration into the construction sector, not manufacturing."
+HZ2BMK5N,Include,,95,The abstract discusses federated learning applied to manufacturing through the industrial Internet of Things (IIoT).
+I2M639QL,Exclude,E5,90,The abstract clearly states that it is a review examining current technologies and model development without presenting original research or implementation.
+I3L947ZH,Exclude,E2,95,The abstract discusses FedMAT in the context of smart healthcare and industrial IoT but does not explicitly discuss transferable models to manufacturing.
+I48ESCK2,Exclude,E5,95,The abstract explicitly states it is a comprehensive review of UAV computing technology with no original contribution.
+I4EFXCNK,Exclude,E5,90,The abstract explicitly states it is a survey without own contribution.
+I4NF7PI9,Include,,100,"The abstract does not mention federated learning or any other machine learning technique, let alone in the context of manufacturing outside biomanufacturing."
+I5WFUY78,Exclude,E2,100,The abstract clearly states the application is in healthcare and industrial IoT.
+I65Y8VFE,Exclude,E2,95,"The abstract discusses future wireless networks and smart radio environments, which are outside the manufacturing domain."
+I7XTHAJZ,Exclude,E2,95,"The abstract clearly states the application of FL in securing FinTech transactions, which is outside manufacturing."
+I8BGWAS8,Exclude,E5,100,The abstract clearly states that this paper is an extensive literature review on Human Digital Twin (HDT) without presenting its own original contribution.
+I8NPMHLK,Include,,90,"The abstract discusses federated learning in the context of privacy-preserving analytics for ERP systems, which are used in manufacturing."
+I8Z29AD3,Exclude,E5,90,The abstract clearly states that the paper is a survey of AI/ML approaches for D2D communication without presenting its own original contribution.
+I9G65VGY,Exclude,E2,100,"The abstract discusses intrusion detection in IoT for 6G networks, which is outside manufacturing."
+I9ZYTR9E,Exclude,E5,90,The abstract clearly states it is a semi-systematic literature review with no original empirical or applied work reported.
+IBBQEJTE,Exclude,E2,95,The paper discusses federated learning in the context of healthcare (cancer immunotherapy) without mentioning transferability to manufacturing.
+IBGMFVXC,Exclude,E2,85,The abstract mentions a health-care use case as an example.
+ICVQU7TE,Include,,80,Abstract discusses FL in the context of Industry 5.0 but does not explicitly exclude manufacturing.
+IDAPDDE9,Include,,95,"The abstract discusses federated learning in an industrial IoT context, which is relevant to manufacturing."
+IDZ8KYDI,Exclude,E2,100,The abstract clearly discusses deep learning models for medical diagnosis systems.
+IF3N7JX8,Exclude,E5,100,The abstract clearly states it is a comprehensive review of DC-DC converter technologies without presenting original research or implementation.
+IGPHK9A6,Exclude,E2,95,"The paper focuses on cloud computing and workload forecasting for SLA compliance, not manufacturing applications of federated learning."
+IHA89E4L,Exclude,E5,90,The abstract explicitly states this is a systematic literature review without original research contribution.
+IHBJNJF6,Exclude,E2,85,"The application described is for general IoT networks, including smart city infrastructure and industrial automation broadly, without specific reference to manufacturing."
+IHCLF3TR,Exclude,E2,98,"The paper focuses on anomaly detection in space-based IIoT networks using quantum technology, not on federated learning applications within manufacturing industries."
+IHS4ZSM6,Exclude,E2,95,The study focuses on federated learning for cyber security in IoT applications outside manufacturing.
+IIJ67ABM,Exclude,E2,95,"The abstract discusses Sat-MEC in IoT for communication and task computation, which is outside manufacturing."
+IIL2X3FG,Exclude,E5,90,The abstract clearly states that this is a review examining ML applications in alloy design without presenting original research or implementation details.
+IJ7IRC3K,Exclude,E5,100,The abstract clearly states this is a systematic literature review without own contribution.
+IKEN246V,Exclude,E2,100,The abstract mentions real-world applications like healthcare and cybersecurity outside manufacturing.
+IM8EX3YS,Exclude,E5,100,The abstract clearly states it is a systematic review without own contribution.
+IM9AYN8D,Exclude,E2,50,"The abstract discusses Mobile Edge Computing (MEC) and intrusion detection in a network context, which does not relate to manufacturing."
+IMYD3ZAN,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+IN3WUHRW,Exclude,E2,100,"The abstract discusses an energy-optimized uplink resource allocation framework for IoT networks in the context of 6G communication systems, which is outside manufacturing."
+IQ5WQ4HA,Include,,95,"The abstract discusses federated learning applied to predictive maintenance in industrial settings with induction-motor drives, clearly within manufacturing."
+IQ8TQEZL,Include,,95,The abstract discusses federated learning applied to manufacturing capability search and supplier selection in a cyber manufacturing context.
+IRZ2RWLE,Exclude,E5,100,The abstract describes a literature review or survey without own contribution.
+IS9VSID7,Include,,95,"The abstract discusses federated learning applied within an industrial IoT context, which falls under manufacturing or related technical domains."
+ISMAEYHE,Exclude,E2,95,The application is described outside of manufacturing context.
+ITKK4K3D,Exclude,E2,95,"The research focuses on IoT security using federated learning, not manufacturing applications."
+IV8DMPMK,Exclude,E5,100,The abstract clearly states this is a systematic review without own contribution.
+IW7JP29H,Exclude,E2,95,The abstract mentions multi-domain applications including healthcare vitals and aircraft maintenance logs.
+IWLMJL99,Exclude,E2,95,"The abstract discusses fungal biotechnologies and their application to conservation mycology, not manufacturing."
+IX2CCC4T,Exclude,E2,95,The abstract clearly discusses applications in healthcare (stem cell therapy for neurodegenerative diseases) without mentioning any transfer to manufacturing.
+IY5XI9RZ,Include,,85,"The abstract discusses federated learning in the context of industrial IoT (IIoT), which is relevant to manufacturing, and does not explicitly exclude transferability to manufacturing."
+J256RTJZ,Exclude,E2,90,"The abstract discusses wireless sensor networks for healthcare and military systems, which are outside manufacturing."
+J2JTR9MZ,Exclude,E2,100,"The abstract discusses the application of federated learning in IoT security, which is outside manufacturing."
+J5DJLIBG,Exclude,E2,90,"The framework addresses logistics disruptions and policy compliance issues in cross-border supply chains using machine learning models, not manufacturing."
+J6JNWEML,Exclude,E2,100,"The abstract clearly states the application is in spacecraft systems/aerospace, not manufacturing."
+J7NJBQYZ,Exclude,E2,95,"The abstract clearly discusses applications of blockchain and IoT in eHealth, not manufacturing."
+J7W999MA,Exclude,E5,100,The abstract clearly states that the paper is a survey of AI applications in climate science.
+J858G963,Exclude,E2,90,The abstract discusses vehicular communication and IoV which is outside the manufacturing domain.
+JACVPG4N,Exclude,E5,90,The abstract clearly states this is a literature review without own contribution.
+JAH9FDF4,Exclude,E2,95,The abstract discusses machine learning in general without specific reference to manufacturing.
+JANBBKR3,Exclude,E2,100,"The abstract discusses geospatial big data and its applications in environmental research, which is outside the manufacturing domain."
+JDAIEZGM,Exclude,E2,100,"The study focuses on resource allocation in co-working spaces using multi-agent reinforcement learning, not manufacturing."
+JE426BL2,Exclude,E5,90,The abstract describes a literature review or conceptual framework without presenting an original empirical study or implementation.
+JFQPQGI4,Exclude,E2,95,The abstract discusses an intrusion detection framework in industrial IoT but does not mention federated learning or manufacturing-specific applications of FL.
+JGTBTP7X,Exclude,E5,90,The abstract clearly states this is a literature review without own contribution.
+JHE2X293,Exclude,E2,95,"The paper focuses on cybersecurity in smart microgrids, not on federated learning applications within manufacturing industries."
+JI93EMYV,Exclude,E2,95,"The study focuses on predicting the RUL of power transformers, which falls under electrical engineering and not manufacturing industries."
+JIBK53T3,Exclude,E2,95,"The abstract discusses cybersecurity applications in IoT and edge devices, not manufacturing."
+JJI9D242,Exclude,E2,100,"The abstract discusses IoT and federated learning in the context of cybersecurity for smart cities, which is outside manufacturing."
+JJSNYA6A,Exclude,E5,90,The abstract explicitly states it is an application-oriented survey without original contribution.
+JMGJCJKV,Exclude,E2,95,"The abstract explicitly states the framework is suitable for healthcare, IoT, financial services, which are outside manufacturing."
+JMKPAV34,Include,,95,"The abstract discusses federated learning applied within an Industrial Internet of Things (IIoT) context for time-series data modeling and cyber attack detection, which falls under manufacturing-related applications."
+JPAFWCED,Exclude,E5,100,The abstract clearly states that it is a survey reviewing the integration of IoNT and machine learning without presenting its own original contribution.
+JRJAFGA7,Exclude,E2,95,"The abstract clearly describes an application in e-commerce and vocational education, not manufacturing."
+JSXCMBQ8,Exclude,E2,95,The study focuses on wastewater treatment plants which are outside the manufacturing industry scope.
+JVCX8AMU,Include,,95,"The abstract discusses an applied implementation of federated learning in manufacturing, considering industrial data characteristics and requirements."
+JVL4XZIN,Exclude,E2,95,"The abstract discusses federated learning in the pharmaceutical industry, not manufacturing."
+JWSYF32T,Exclude,E5,90,The abstract clearly states that this is a systematic review without presenting original research or novel contributions.
+JX2RFI9K,Exclude,E2,95,The abstract clearly states the application is in healthcare for patient monitoring.
+JXAUNHL8,Exclude,E2,95,The paper focuses on IoT and does not mention any application in manufacturing.
+JXNQXSW8,Exclude,E2,100,The abstract clearly states the focus on drug discovery in AI applications.
+JXP85HJJ,Exclude,E2,95,The abstract discusses IoT cybersecurity without mentioning manufacturing.
+JYX5HVNE,Include,,85,The abstract discusses federated learning in a context relevant to practical applications but does not specify an industry outside manufacturing.
+JZ2LZYXS,Exclude,E2,95,"The abstract discusses applications in autonomous vehicles, which is outside manufacturing."
+JZTSGQIH,Exclude,E5,90,
+K2L6JC8P,Include,,85,"The abstract discusses Federated Learning in the context of manufacturing Consumer Electronic Products, which falls within the scope of manufacturing."
+K4TP4AR3,Include,,95,"The abstract discusses federated learning in the context of industrial IoT systems, which falls within manufacturing scope."
+K5MV8AYM,Exclude,E2,100,"The abstract discusses digital twin implementation in engineering systems, not federated learning in manufacturing."
+K7B764R4,Exclude,E2,100,The abstract discusses federated learning applied to extracellular vesicles in biomedical science.
+K8224HQ4,Include,,95,"The abstract discusses a predictive failure system in mining, which is within manufacturing."
+KA5WNPVJ,Exclude,E5,98,The abstract clearly states it is a comprehensive study on collaborative learning for 6G networks without presenting original research or application.
+KBLK6WLE,Exclude,E5,90,The abstract describes a literature review or survey of cybersecurity strategies for 5G infrastructures without presenting an original research contribution.
+KCSYKKR2,Include,,100,The abstract discusses federated learning in the context of smart manufacturing and does not fall under exclusion criteria E2 or E5.
+KFD9PL8Q,Exclude,E2,95,"The paper focuses on Federated Learning applied to IoMT data in healthcare, which falls outside the scope of manufacturing."
+KFS4QA6S,Exclude,E2,95,The abstract clearly discusses federated learning in the context of finance.
+KGJNY25U,Exclude,E2,0,The abstract discusses an AI-enhanced framework for cloud computing but does not mention federated learning or any application in manufacturing.
+KHC3SWUI,Include,,100,The abstract does not mention federated learning or any application outside manufacturing.
+KJBIIXUQ,Exclude,E5,100,The abstract clearly states this is a systematic literature review without presenting any original research or implementation.
+KJJXW9L9,Exclude,E5,100,The abstract clearly states this is a survey exploring OFL and OTL without presenting original research or application.
+KKKWCN4P,Exclude,E2,100,The paper discusses a framework for network traffic augmentation in cybersecurity threat detection.
+KMYRAFP6,Exclude,E5,100,The abstract clearly states that it is a review paper without own contribution.
+KNG9QAKH,Exclude,E2,100,"The abstract discusses IoT security in edge computing for smart cities, not manufacturing."
+KNQ7H2TB,Exclude,E5,100,The abstract clearly states it is a survey without own contribution.
+KP8GILKD,Exclude,E5,100,The abstract explicitly states this is a systematic literature review without own contribution.
+KPZGRUWM,Include,,85,The abstract discusses federated learning in the context of manufacturing and Industry 4.0.
+KQ7SDPRP,Exclude,E2,98,"The abstract discusses threat detection in IoT using blockchain technology, which is outside the manufacturing domain."
+KQE56EP9,Exclude,E2,100,The abstract clearly discusses applications of transfer learning in healthcare.
+KTEYXQRC,Include,,85,"The abstract discusses federated learning in the context of IoT and edge computing for industrial applications, which is relevant to manufacturing."
+KV8REWN3,Exclude,E5,100,The abstract clearly states this is a review paper compiling information from other sources.
+KXNLBZUW,Exclude,E2,95,"The abstract discusses RIS and ISAC in the context of 6G wireless networks, not manufacturing."
+KY5VYWQK,Exclude,E2,95,"The abstract clearly discusses digital twin technology applications in oncology, which is outside manufacturing."
+KYTRAX79,Exclude,E5,90,
+L3EWHFA2,Include,,95,"The abstract discusses federated learning applied to predictive maintenance in the cement industry, which is within manufacturing."
+L3FD3P4N,Exclude,E2,100,"The paper focuses on healthcare applications of IoT and ML, not manufacturing."
+L4AVS8SL,Exclude,E5,100,The abstract clearly states this is a review examining AI applications in aviation without presenting original research or implementation details.
+L4PZECUB,Exclude,E5,100,The abstract clearly states this is a systematic mapping study without own contribution.
+L6E4YHZD,Exclude,E5,90,The abstract describes a literature review or survey without own contribution.
+L7JN6S94,Exclude,E2,95,"The abstract clearly states the focus is on healthcare and generative AI tools, not manufacturing."
+L7VAH36R,Exclude,E2,95,"The abstract clearly states the paper is about healthcare digital twins, not manufacturing."
+L82G8LWD,Exclude,E5,100,The abstract describes a literature review or survey without presenting its own contribution.
+L9BWDJ5G,Exclude,E2,95,"The abstract clearly discusses the application of federated learning in IoT security and cyber threat intelligence, which is outside manufacturing."
+L9X9N9G7,Exclude,E5,90,The abstract clearly states this is a review paper exploring principles and future directions for LiFi-based sensing.
+LAES66EL,Include,,95,"The abstract discusses federated learning applied to diagnosing faults in industrial motors, which is within manufacturing scope."
+LALS26YN,Include,,95,"The abstract discusses an application of federated learning in industrial IoT settings, which falls within manufacturing."
+LAPKHCDQ,Exclude,E5,100,The abstract clearly states that this is a comprehensive review and overview of network automation technologies without presenting any original research or novel contribution.
+LBLLVA2B,Exclude,E5,90,The abstract describes a literature review or survey without presenting original research findings.
+LBYVCI65,Include,,85,The abstract discusses AI applications in manufacturing without mentioning federated learning.
+LCXHHPMY,Include,,85,"The abstract describes an FL application in smart manufacturing with equipment failure detection, which falls within the review scope."
+LD8VWVMS,Include,,85,"The abstract discusses a real implementation of federated learning in defect detection for manufacturing quality control, which falls within the scope of manufacturing applications."
+LDIFL45I,Exclude,E2,95,The abstract discusses IoT privacy protection strategies without mentioning manufacturing.
+LDN2IEA9,Include,,95,"The abstract does not specify that the FL application is outside manufacturing, nor does it state that it is a literature review without its own contribution."
+LDS5I5JE,Include,,85,The abstract discusses federated learning in a manufacturing context related to digital twins and cloud platforms.
+LDVWU726,Include,,100,"The abstract discusses federated learning in IIoT, which is relevant to manufacturing."
+LEASQ8FC,Include,,100,"The abstract clearly discusses federated learning in manufacturing environments, specifically for predictive maintenance in aerospace manufacturing facilities."
+LFMCF5FW,Exclude,E5,100,The abstract explicitly states it is a systematic review without own contribution.
+LKVYAJIX,Exclude,E2,95,"The paper focuses on cross-cloud resource scheduling challenges and proposes an intelligent scheduling framework for cloud management, not related to manufacturing."
+LLVMGWBY,Exclude,E5,0,This is a literature review without presenting its own original contribution.
+LMVWWDU9,Include,,95,"The abstract discusses federated learning applied in industrial contexts such as anomaly detection, asset management, and predictive maintenance."
+LNT9XW4K,Exclude,E5,20,The abstract does not describe an original implementation or application of federated learning in manufacturing; it appears to be a theoretical work on causal explanations for concept drift.
+LPZTKZUU,Include,,95,"The abstract discusses federated learning applied in manufacturing for condition monitoring using sensor data from production machinery, which falls within the scope of the review."
+LR3DWNZL,Exclude,E2,95,"The abstract discusses IoT devices in smart homes and cities, which is outside manufacturing."
+LR7BG7ET,Include,,85,The abstract discusses federated learning in Industrial IoT but does not specify a non-manufacturing application or act as a literature review.
+LRFYPWWP,Exclude,E5,100,The abstract explicitly states that this is a survey without original contribution.
+LSJ79APX,Exclude,E2,95,"The abstract discusses IoV, edge computing, and digital twins in automotive systems, which is outside the manufacturing scope."
+LT4HG282,Exclude,E5,90,The abstract clearly states that the paper is a survey without own contribution.
+LUMLN9V5,Include,,100,"The abstract does not mention federated learning or manufacturing, nor is it a literature review without its own contribution."
+LUMV28VD,Exclude,E2,95,"The paper focuses on IoT and fog computing for low-latency and energy-efficiency in edge nodes, not manufacturing."
+LVB8SGCY,Exclude,E5,100,The abstract explicitly states it is a systematic overview of Federated Semi-Supervised Learning studies.
+LW6NIFR2,Exclude,E2,100,"The paper discusses music melody generation, which is outside manufacturing."
+LX8PIA3H,Exclude,E2,95,The abstract clearly discusses the application of FL in healthcare.
+M27C2PDQ,Include,,95,"The abstract discusses a manufacturing case study on fatigue life prediction of additive-manufactured parts and does not exclusively focus on other industries like healthcare, finance, etc."
+M2C2J24C,Exclude,E2,95,"The abstract clearly discusses AI applications in drug development and manufacturing, which is outside the scope of manufacturing industries relevant to federated learning in manufacturing."
+M2QUFEEW,Exclude,E5,90,The abstract clearly states this is a literature review/survey of MLOps platforms without presenting original research or implementation.
+M4FX3CAV,Exclude,E2,95,"The abstract discusses a framework for mobile AR applications, which falls outside manufacturing."
+M5JZ8JLU,Exclude,E5,90,"The abstract clearly states it is a literature review without own contribution in the field of cognitive computing applications for reservoir characterization and exploration optimization, which is outside manufacturing and federated learning scope."
+M5RAYWMD,Exclude,E2,95,"The abstract discusses federated learning in the context of wireless technology and 6G networks, not manufacturing industries."
+M6EDK3ZM,Include,,100,The abstract does not mention an application outside manufacturing or indicate it is a literature review.
+M7IFHIDX,Exclude,E5,100,The abstract explicitly states this is a survey without own contribution.
+M7L2ZL3H,Exclude,E5,90,The abstract describes a literature review or survey without own contribution.
+M9CW2CQI,Include,,95,"The abstract describes an application of federated learning in smart manufacturing, fitting within the review scope."
+MA95VWAA,Include,,95,The abstract discusses federated learning applied to manufacturing for energy efficiency.
+MAIWMJBD,Include,,95,"The abstract discusses federated learning applied to time series imputation in IoT devices within Industry 4.0, which falls under manufacturing."
+MBDIUVPA,Exclude,E5,100,The abstract explicitly states this is a survey reviewing existing literature without own contribution.
+MC2IMSHZ,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive review without presenting original research or novel contributions.
+MCGZY3UQ,Exclude,E2,100,The paper focuses on supply chain risk prediction using machine learning techniques and does not mention federated learning or manufacturing.
+MCQNE5TP,Exclude,E2,100,"The abstract discusses digital twin technology for sensor fault management in industrial IoT, which is outside the scope of federated learning applications in manufacturing."
+MDZZWX6Z,Include,,85,The abstract discusses federated learning but does not specify an application outside manufacturing or a transferable model to manufacturing.
+MES45PWI,Exclude,E5,100,The abstract clearly states that this paper aims to categorize and discuss existing literature on privacy-preserving cooperative control without presenting its own contribution.
+MH382U2B,Exclude,E5,90,The abstract clearly states it is a survey and experimental evaluation without presenting original research or novel contribution.
+MHI5LAMT,Exclude,E2,100,The abstract discusses computer-assisted translation courses and does not mention manufacturing or federated learning.
+MHVQX4VY,Include,,95,"The abstract discusses a Federated Learning framework for Industry 5.0 applications in manufacturing, fitting within the review scope."
+MJ3YDRLB,Include,,100,"The abstract discusses federated learning in an Industry 4.0 context, which includes manufacturing."
+MJZLX69C,Exclude,E2,95,The abstract discusses Supply Chain Management (SCM) in logistics but does not mention manufacturing or federated learning.
+MLQR329J,Exclude,E2,95,"The abstract discusses AI application in construction, not manufacturing."
+MLTZN3XF,Exclude,E2,100,The abstract clearly states the application is in healthcare.
+MM63P6HL,Exclude,E2,90,"The abstract discusses edge computing across multiple domains including manufacturing, transportation, energy sector, and defense domain, not specifically focusing on federated learning in manufacturing."
+MMFKALJY,Exclude,E2,100,"The abstract discusses IoT security and authentication, which is outside manufacturing."
+MNI4XJYY,Exclude,E2,85,"The paper discusses edge computing for scenarios like autonomous driving, which falls outside the scope of manufacturing unless explicitly stated otherwise."
+MNMYW5ZI,Exclude,E2,95,The abstract clearly states that the FL application is in traffic forecasting involving IoT-enabled sensor data.
+MP8649CQ,Exclude,E2,95,"The abstract discusses bearing fault diagnosis in rotating machinery, which is outside the manufacturing scope of federated learning applications."
+MQ2L36SA,Exclude,E5,100,The abstract clearly states that this is a systematic review without presenting any original research or application.
+MQ5T68WJ,Exclude,E5,90,The abstract clearly states that this is a systematic literature review without presenting original research or application.
+MSLL2NLZ,Include,,80,Abstract does not specify FL application outside manufacturing or indicate it is a literature review without own contribution.
+MTSKXLAE,Exclude,E2,100,"The abstract discusses a dataset for lithium-ion battery identification and classification in the context of deep learning, which is outside manufacturing scope."
+MUGAG6YI,Exclude,E2,95,"The abstract discusses cybersecurity applications in IoT and cloud environments, which is outside the manufacturing domain."
+MUYYET5W,Exclude,E2,100,"The abstract discusses power grids and renewable energy sources, which are outside the manufacturing domain."
+MWZWT473,Exclude,E2,30,"The abstract discusses federated learning in the context of smart medical care, which falls outside manufacturing."
+MYIIFHLQ,Include,,85,"The abstract discusses federated learning within the context of intelligent welding processes in the automotive industry, which falls under manufacturing."
+MYWW5B3B,Include,,70,The abstract does not provide clear evidence of an applied implementation of federated learning in manufacturing or its transferability to manufacturing from another domain.
+MZES5LJ3,Exclude,E2,95,"The abstract clearly discusses an application in oil and gas facilities, which is outside manufacturing."
+MZYE4BCX,Include,,95,"The abstract discusses federated learning in an industrial context for anomaly detection within Internet of Everything (IoE) environments, which is relevant to manufacturing."
+N3I7H2XP,Exclude,E2,95,"The paper focuses on cybersecurity for IoT devices, not manufacturing applications."
+N3NW2283,Exclude,E2,95,"The abstract clearly discusses an application in aerobics training, which is outside manufacturing."
+N4DVQJRU,Exclude,E2,95,"The abstract discusses cybersecurity challenges in IoT devices and proposes a novel intrusion detection method, which is outside the manufacturing domain."
+N5JPVDCW,Include,,95,The abstract does not mention any non-manufacturing applications of federated learning.
+N7EVWCKJ,Exclude,E2,95,"The abstract discusses network-based intrusion detection in defence mechanisms, which is outside manufacturing."
+N7NK9WKJ,Include,,95,"The abstract describes an application of federated learning in industrial defect detection within manufacturing, which aligns with the review scope."
+N8IZ2XSD,Exclude,E2,95,The abstract mentions applications in healthcare and other non-manufacturing sectors.
+N9UZRNJY,Include,,80,The abstract does not mention federated learning or applications outside manufacturing.
+N9W36BET,Include,,92,The abstract focuses on Additive Manufacturing and does not mention federated learning or applications outside manufacturing.
+NA7FRTMW,Include,,95,The abstract discusses federated learning in manufacturing.
+NASEER7C,Exclude,E2,100,"The abstract discusses GNSS jamming detection in security systems, which is outside manufacturing."
+NBN2QXSN,Exclude,E5,90,"The abstract clearly states that this is a systematic review of existing literature on anomaly detection techniques for IoT security, with no indication of original research or novel contributions."
+NCVGLSYS,Exclude,E5,90,The abstract clearly states that the paper is a legal analysis of AI enterprises without presenting any new empirical research or applied implementation.
+NH5DB6CT,Include,,100,The abstract does not mention federated learning outside manufacturing or indicate it is a literature review.
+NJUNS8CB,Exclude,E2,100,The abstract clearly states that the paper focuses on IoMT networks in a medical context.
+NKUICI4J,Exclude,E5,100,The abstract clearly states that this is a literature review or analysis without presenting original research or implementation.
+NLGQ46YJ,Include,,95,The abstract does not indicate a literature review without own contribution or an application outside manufacturing.
+NQ8YJVID,Exclude,E5,100,The abstract clearly states this is a meta-review of literature without original contribution.
+NQLHFQWL,Exclude,E5,90,The abstract clearly states it is a survey without own contribution.
+NU9MU4PM,Include,,95,"The abstract discusses an application of federated learning in a manufacturing setting (truck cabin production), which fits the review scope."
+NUGE4ZPV,Exclude,E2,95,The abstract discusses applications in smart city services and industrial IoT but does not explicitly mention transferable models to manufacturing.
+NUVJ2AWJ,Exclude,E5,90,The abstract clearly states that this is a review highlighting the role of AI and ML in AM without presenting original research or application.
+NWR5DHMU,Exclude,E2,98,"The paper focuses on applications related to international trade, infrastructure, and environmental sustainability rather than manufacturing."
+NXGU8WAK,Include,,85,The abstract discusses federated learning within IIoT which relates to manufacturing.
+P235GS8Y,Exclude,E2,95,"The abstract clearly discusses biometric data protection and face recognition in healthcare/privacy contexts, not manufacturing."
+P2L32YK8,Exclude,E2,100,"The abstract clearly discusses a blockchain-based framework for food safety and traceability in fruit supply chains, which is outside the manufacturing domain."
+P6FKKB2Y,Exclude,E2,95,"The paper focuses on inventory optimization using ensemble learning methods, which is outside the scope of federated learning in manufacturing."
+P7QY6FND,Include,,95,"The abstract discusses a federated learning application within smart factories for predictive maintenance, which falls under manufacturing."
+P94R7L9S,Include,,85,"The abstract discusses a distributed learning approach applied to smart devices' data in manufacturing, without mentioning other industries."
+PAMYGH6K,Exclude,E2,75,"The abstract discusses the application of federated learning in a Local-Edge-Cloud environment for task offloading and privacy preservation, which is outside the manufacturing domain."
+PCKAGHR4,Exclude,E5,20,The abstract does not mention any specific application in manufacturing or a novel FL implementation; it appears to be describing a system architecture rather than an applied study.
+PEK8DPBG,Exclude,E2,95,The abstract discusses cloud computing scheduling methods without mentioning manufacturing.
+PFKYBHRX,Exclude,E2,100,"The abstract clearly states that the federated learning application is for mobile users in personalization services, which falls outside manufacturing."
+PGGVUIHY,Exclude,E2,95,The paper focuses on IoT urban networks' cybersecurity challenges and does not mention any manufacturing applications or transferable models to manufacturing.
+PGKGX5E5,Exclude,E5,20,The abstract does not describe an original research contribution or applied implementation of federated learning in manufacturing. It appears to be a proposal for a platform vision.
+PI6IYEED,Include,,95,The abstract discusses an application in IIoT scenarios within manufacturing.
+PILG5GYI,Include,,85,The abstract discusses federated learning in an edge-centric IoT ecosystem which can be relevant to manufacturing applications like Industry 4.0 digital twins. No clear evidence of application outside manufacturing or being a literature review.
+PJEXMRHW,Include,,85,The abstract discusses an application in manufacturing with no mention of other industries.
+PJJYGTBR,Include,,95,"The abstract discusses the application of federated learning in predictive maintenance within Industrial Internet of Things (IIoT), which falls under manufacturing industry applications."
+PKM2QFBB,Exclude,E2,95,"The abstract explicitly mentions applications in healthcare, smart infrastructure, surveillance, and IoT-based automation outside manufacturing."
+PL4N29M2,Exclude,E2,100,"The abstract discusses AI-driven quantum-resilient Cyber-Physical Systems in the context of IoT networks, which is outside manufacturing."
+PMZTGIA7,Exclude,E5,90,The abstract explicitly states it is a survey reviewing existing methods without presenting new contributions.
+PNQP4AWD,Exclude,E2,95,The abstract discusses IoT security in general without mentioning manufacturing.
+PNZ35QZQ,Exclude,E2,95,"The abstract discusses IoT applications in healthcare and gaming, which are outside manufacturing."
+PP84RZFL,Exclude,E2,100,"The abstract discusses IoT security and network traffic detection, which is outside the manufacturing domain."
+PQB4JSN9,Exclude,E5,90,The abstract clearly states it is a review of enabling technologies for 6G-IoT without presenting original research.
+PQDBMI8L,Exclude,E2,100,"The abstract clearly discusses an application of neural networks in e-waste management, which is outside the manufacturing scope."
+PQHYFN3B,Exclude,E5,90,The abstract clearly states that this is a review paper addressing gaps in current reviews.
+PRGFIX2A,Include,,85,"The abstract does not provide clear evidence that the work is a literature review without own contribution or focuses solely on an application outside manufacturing (healthcare, finance, etc.)."
+PTAMM9RQ,Include,,90,The abstract does not mention federated learning or its application outside manufacturing.
+PTYU87MM,Exclude,E2,30,"Fault detection in medical equipment is mentioned, which falls outside manufacturing."
+PWNM5UGY,Exclude,E2,100,The study focuses on pediatric dental diagnostics in healthcare.
+PY3WRU9R,Exclude,E2,100,"The abstract mentions applications of federated learning in medicine and health, which falls outside the manufacturing scope."
+PY4Z5TI8,Exclude,E2,95,"The paper discusses federated learning in the context of the pharmaceutical industry, not manufacturing."
+Q2UHE2RX,Exclude,E5,100,The abstract explicitly states it is a survey reviewing papers without presenting its own contribution.
+Q4V348RR,Include,,85,"The abstract discusses federated learning in the context of material research, which is relevant to manufacturing. No clear evidence that it falls under another industry or is a literature review without own contribution."
+Q5QF6K8E,Exclude,E2,100,"The abstract discusses a framework for smart home applications using blockchain and transfer learning, which is outside the manufacturing domain."
+Q7NI2PPT,Exclude,E5,100,The abstract clearly states that it is a review article without own contribution.
+Q7U7B9HG,Exclude,E2,95,"The abstract discusses Intelligent Transportation Systems and ICVs, which are outside the manufacturing domain."
+Q8IYTE8N,Include,,95,"This is a literature review but does not exclude it based on E5 as it aims to provide a structured taxonomy and practical decision-making framework for AI techniques in machining, which could be relevant for future FL studies in manufacturing."
+Q8NY56FD,Exclude,E2,95,"The abstract discusses federated learning in satellite constellations, which is outside the manufacturing domain."
+QBN6UZDS,Exclude,E2,50,The abstract discusses federated learning (FL) in the context of healthcare and manufacturing but does not provide evidence that it explicitly addresses transferable models to manufacturing.
+QC42ERYB,Exclude,E5,100,The abstract explicitly states it is a survey reviewing existing research without presenting new contributions.
+QFXN36E2,Exclude,E5,100,The abstract explicitly states it is a survey on AI in the energy sector.
+QGYTH8VR,Exclude,E2,98,The abstract mentions applications in healthcare and automation beyond manufacturing.
+QHRPZNJN,Exclude,E2,100,The abstract clearly discusses smart healthcare systems and does not mention manufacturing.
+QI2G4UHK,Exclude,E2,90,"The abstract discusses Mobile Edge Computing (MEC) applications such as IoT, autonomous driving, and smart cities, which are outside manufacturing."
+QLYWTRUZ,Exclude,E5,100,The abstract clearly states this is a survey paper without original contribution.
+QNWGDMG3,Exclude,E5,90,The abstract clearly states it is a review without presenting original research or implementation details.
+QPLCYDNK,Exclude,E2,95,"The paper focuses on intrusion detection in IIoT and SCADA networks, which is outside the manufacturing scope."
+QQN955LQ,Include,,95,"The abstract discusses federated learning applied to anomaly detection in industrial manufacturing systems, which falls within the scope of manufacturing applications."
+QRKPIAXR,Exclude,E5,100,The abstract clearly states it is a narrative literature review without own contribution.
+QRYQWPZT,Exclude,E5,100,The abstract clearly states it is a survey study without own contribution.
+QT4HI7D7,Exclude,E2,100,The abstract clearly states the application is in healthcare.
+QTKYUQA3,Include,,100,The abstract discusses industrial robot transmission components and does not mention any non-manufacturing applications.
+QTLJJVET,Exclude,E5,90,The abstract clearly states it is a survey paper without own contribution.
+QTUKRHSU,Exclude,E2,95,"The abstract discusses VR transmission in cellular networks using DRL, which is outside manufacturing."
+QUU2824Q,Exclude,E2,100,The abstract clearly discusses energy demand forecasting and does not mention manufacturing.
+QUZFV828,Exclude,E2,95,The abstract clearly discusses federated learning in the context of healthcare (cancer research) without mentioning any transferable models to manufacturing.
+QVSFMNAS,Exclude,E2,95,"The paper focuses on a two-tier IDS for IIoT cybersecurity, not on federated learning in manufacturing."
+QVSWM9HH,Exclude,E2,95,"The abstract clearly discusses cloud computing optimization in the power industry, not manufacturing."
+QW29SI8J,Exclude,E2,95,"The abstract clearly discusses medical devices and cybersecurity in IoMT, which is outside manufacturing."
+QWA8Q9E4,Exclude,E2,95,The abstract clearly discusses a healthcare application without any mention of transfer to manufacturing.
+QXF7SHQW,Exclude,E2,95,"The abstract discusses UAVs and their integration into complex projects, which is outside of manufacturing."
+QXSPIHAM,Exclude,E2,95,"The abstract discusses an intrusion detection system for IoT security, which is outside the manufacturing domain."
+QY8S4GQ6,Include,,95,The abstract does not mention federated learning or applications outside manufacturing.
+QZ79J3SM,Exclude,E2,95,"The paper discusses federated learning in the context of 6G network slicing, which is outside manufacturing."
+R2QC5BMH,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+R3HC242G,Include,,85,The abstract does not provide clear evidence of an FL application outside manufacturing or indicate it is a literature review without its own contribution.
+R464EQAX,Exclude,E2,100,The abstract discusses AIoT in general without specific mention of federated learning or manufacturing applications.
+R53ZSX8E,Exclude,E2,100,"The abstract discusses body area networks for respiratory monitoring during endurance running, which is outside the manufacturing domain."
+R5BHCSNB,Include,,90,This abstract does not mention federated learning or any transferable models to manufacturing from other industries.
+R5XSAXIJ,Exclude,E2,100,"The abstract discusses human activity recognition in computer vision, which is outside manufacturing."
+R6Y6M4ZC,Include,,100,The abstract does not mention any specific application outside manufacturing.
+R7JCXU9W,Exclude,E2,100,The abstract clearly states the paper is about federated learning in education.
+R7SLMYIG,Include,,85,The abstract discusses a federated learning application in manufacturing for defect prediction.
+R9Z6WDHR,Exclude,E2,95,The paper focuses on digital twins in aviation without mentioning federated learning or its application in manufacturing.
+RCDVGG7N,Exclude,E2,95,Abstract focuses entirely on healthcare cost forecasting applications.
+RCZWGNLE,Exclude,E2,95,The abstract focuses on energy technologies and smart grids rather than manufacturing applications.
+RD4IY5DP,Exclude,E2,95,"The abstract discusses power systems and false data injection attacks in electricity grids, which is outside manufacturing."
+RDBICWGI,Include,,98,"This paper applies federated learning to Remaining Useful Life prediction in industrial machinery using the C-MAPSS FD004 dataset, clearly within manufacturing scope."
+RGHI2I3Z,Exclude,E2,95,"The abstract discusses cybersecurity in IoT networks, which is outside the manufacturing domain."
+RGUXMWI9,Exclude,E5,100,The abstract clearly states this is a survey without original contribution.
+RJ5VU3I3,Exclude,E2,95,The abstract discusses a 6G communication system with no mention of manufacturing.
+RJI9BVMU,Include,,95,"The abstract discusses an application of federated learning in manufacturing as part of Industrial Cyber-Physical Systems (ICPS), which falls within the scope of the review."
+RJSEIMYV,Exclude,E5,90,The abstract clearly states it is a technology foresight review without presenting original research or implementation.
+RKBB48DT,Include,,100,"The paper introduces a personalized federated learning framework for edge devices, which does not specify an application outside of manufacturing nor is it described as a literature review."
+RKTAKXIL,Exclude,E5,100,The abstract clearly states this is a systematic review without own contribution.
+RMM4BGUV,Exclude,E2,100,The abstract clearly discusses applications in healthcare (wireless capsule endoscopy) without mentioning any transferable models to manufacturing.
+RPAZNE7J,Exclude,E5,100,The abstract clearly states that the paper surveys literature to identify security-focused research approaches in fog computing without presenting its own contribution.
+RPNAEWC3,Include,,100,The abstract clearly discusses federated learning applied to fault inspection in textile manufacturing.
+RPR3L57K,Exclude,E2,100,"The abstract clearly states that the FL application is for malware detection in Android environment, which is outside manufacturing."
+RR3QTT5Y,Exclude,E2,85,"The abstract discusses federated learning in a dynamic spectrum access context for IoT applications, not manufacturing."
+RRN6E693,Exclude,E2,100,"The abstract clearly states the application of federated learning in air pollution forecasting, which is outside manufacturing."
+RTI2QE35,Exclude,E5,90,The abstract explicitly states it is a literature review with no original contribution.
+RTRRZSFI,Include,,85,"The abstract discusses federated learning in the context of IIoT and manufacturing data challenges, without excluding or limiting to other industries."
+RZASH2ZB,Include,,85,The abstract discusses digital transformation in manufacturing but does not mention federated learning or any transferable models to manufacturing from other industries.
+S23I4YUP,Exclude,E5,90,The abstract clearly states that it is a survey paper without own contribution.
+S2MPQM6L,Exclude,E2,95,The abstract clearly states the application is in healthcare and finance.
+S3MV7MWV,Exclude,E2,95,"The paper discusses IoT signal optimization and anomaly detection, not manufacturing applications."
+S3UXH8IF,Exclude,E5,100,The abstract explicitly states it is a survey focusing on multi-agent systems and federated optimization without presenting original research or application.
+S72UDF9Z,Exclude,E5,100,The abstract explicitly states it is a survey without own contribution.
+S7XN2R85,Exclude,E2,95,"The abstract discusses an IoT security system with blockchain and message queuing for access control, which is outside the manufacturing domain."
+S8UH5GQU,Exclude,E2,95,The paper discusses smart agriculture and DDoS attack detection in IoT devices for farming.
+SA267WJS,Exclude,E2,30,This paper focuses on IoT security in various industries including healthcare and does not explicitly discuss applications or models transferable to manufacturing.
+SB73HMH4,Exclude,E5,90,The abstract clearly states that this is a systematic overview and review without presenting original research or implementation.
+SBVYR9WG,Exclude,E2,95,"FL application outside manufacturing (healthcare, IoT, finance)."
+SDETA6G2,Exclude,E2,100,The abstract discusses IoT and privacy-preserving machine learning in a general context without mentioning manufacturing.
+SE6R6W4M,Exclude,E2,95,"The abstract discusses applications in sports, not manufacturing."
+SFT3J8QK,Exclude,E2,100,"The abstract discusses waste management in smart cities using CNNs and active learning, which is outside the manufacturing domain."
+SHGEI7NB,Exclude,E2,95,"The abstract discusses an application in urban traffic management, which is outside manufacturing."
+SHPQASXG,Exclude,E2,30,"The abstract discusses false data injection attacks in Industrial Internet of Things (IIoT) systems, which is outside the scope of manufacturing applications."
+SK8X8RUI,Exclude,E2,100,The abstract clearly states the application of federated learning in healthcare for brain tumour classification.
+SL7QNT6G,Exclude,E2,95,"The abstract clearly discusses an application in the home-appliance industry, which is outside manufacturing."
+SM5B6M6P,Exclude,E5,100,The abstract describes a literature review or survey without presenting its own novel contribution.
+SNYBTVSQ,Exclude,E2,100,The abstract focuses on information sharing in collaborative design environments but does not discuss federated learning or its applications in manufacturing.
+SPLEPT8B,Exclude,E5,98,The abstract clearly states that this is a comprehensive review paper without presenting original research or new findings.
+SPRD3MJ7,Exclude,E2,100,"The abstract clearly discusses DL applications in tea quality evaluation, which is outside manufacturing."
+SQRWLR3D,Exclude,E5,90,The abstract clearly states this is a survey without own contribution.
+SRNA3HFM,Exclude,E2,100,The abstract clearly discusses AI applications in healthcare for cancer therapy.
+STKFZP3G,Exclude,E2,100,The abstract discusses an application in healthcare (workplace ergonomics for workers) rather than manufacturing.
+SV5VAGQX,Exclude,E5,100,The abstract clearly states that this is a literature review without original contribution.
+SVU4UGVM,Exclude,E2,95,"The abstract discusses federated learning applied to smart grids and cybersecurity, not manufacturing."
+SX8VAB95,Exclude,E2,95,"The abstract clearly states that the study focuses on healthcare, finance, and smart cities, which are outside manufacturing."
+SXKXTPBC,Include,,100,The abstract does not mention an application outside manufacturing or state it is a literature review.
+SYC42CS4,Exclude,E2,95,The abstract explicitly mentions applicability to healthcare and industrial IoT beyond military communication networks.
+SZLKMUYS,Exclude,E5,100,The abstract clearly states it is a systematic literature review without presenting original research or application.
+T4TBLLL4,Exclude,E2,95,The abstract discusses application of federated learning in smart healthcare and other non-manufacturing domains.
+T5HGQA6V,Exclude,E2,95,The abstract discusses UAVs and UAM systems which are outside manufacturing.
+T5NS5N38,Exclude,E2,95,"The abstract clearly discusses maritime operations and cyber risks, which is outside the manufacturing domain."
+T66CUXQU,Exclude,E2,100,"The abstract clearly discusses AI applications in healthcare, not manufacturing."
+T79JZHSB,Include,,95,The abstract discusses federated learning applied to machine tool lifetime prediction in industrial manufacturing.
+TAQPIJ9T,Exclude,E2,95,"The paper focuses on IoT and AI/ML integration, not manufacturing."
+TCLRDSGJ,Exclude,E2,100,"The abstract discusses an educational credential management system using blockchain and machine learning, which is outside the manufacturing domain."
+TEEXTGHZ,Include,,85,"The abstract discusses additive manufacturing and data-driven quality control approaches within the context of Industrie 4.0, which is relevant to manufacturing."
+TGISTZ7N,Exclude,E5,90,The abstract clearly states this is a literature review without original contribution.
+THSY8H5B,Exclude,E5,90,The abstract clearly states that it is a survey paper without original contribution.
+TI48389H,Include,,95,"The abstract discusses federated learning applied to industrial machinery condition monitoring, which falls within the manufacturing domain."
+TICZZVV7,Exclude,E2,100,The abstract discusses quantum technologies and AI in various industries including finance and healthcare.
+TIJS92NC,Exclude,E2,95,"The abstract discusses federated learning in the context of 6G wireless systems, not manufacturing."
+TKAH4VET,Exclude,E2,100,"The abstract clearly discusses plant disease detection using drones in agriculture, which is outside manufacturing."
+TM5GTP2T,Include,,95,"The abstract discusses an application of federated learning in industrial IoT for environmental monitoring, which falls within the manufacturing scope."
+TMF2ZNZ5,Exclude,E2,95,"The paper discusses applications of the proposed framework in healthcare, finance, and other non-manufacturing domains."
+TN69IPZ6,Include,,95,The abstract discusses federated learning applied to Industry 4.0 scenarios within manufacturing contexts.
+TRGSKS3S,Exclude,E5,100,The abstract clearly states this is a survey paper without own contribution.
+TSB5IHGT,Exclude,E2,95,"The abstract clearly states the application is for IoT devices in general, including smart cities and environmental monitoring, which are outside manufacturing."
+TTIYZE39,Exclude,E2,100,The paper discusses applications in healthcare and industrial networks but does not explicitly address transferability to manufacturing.
+TTK3RH8P,Exclude,E2,100,"The abstract discusses IoT device security in the context of HPC clouds and satellite links, which is outside the manufacturing domain."
+TTW7XNTN,Exclude,E2,50,"The abstract discusses a framework for small and medium-sized enterprises (SMEs) using blockchain, IoT, and AI/ML but does not mention federated learning or any specific application in manufacturing."
+TV8T4CDQ,Include,,80,The abstract does not mention federated learning or applications outside manufacturing.
+TV9F4LTQ,Exclude,E2,95,FL application in IoT for intrusion detection (outside manufacturing).
+TVSHQXTG,Exclude,E5,100,The abstract clearly states this is a systematic literature review without own contribution.
+TWWB28WS,Exclude,E5,100,The abstract explicitly states it is a literature review without own contribution.
+TYBZXGTA,Exclude,E2,100,The abstract clearly discusses Federated Learning applications in healthcare.
+TYPR358H,Exclude,E2,95,"The abstract discusses XAI applications primarily in healthcare and industrial automation, but does not provide specific details on federated learning or manufacturing implementations."
+TZWPMNGH,Include,,85,"The abstract discusses an asynchronous federated learning solution for Industry 4.0 and IoT scenarios, which falls within manufacturing."
+U37C95P8,Include,,95,The abstract does not mention federated learning or applications outside manufacturing.
+U3CCVVA4,Exclude,E5,90,The abstract clearly states this is a literature review with an expert system proposal.
+U3CMMRYY,Include,,98,"The abstract discusses federated learning in the context of circular manufacturing systems, which falls within the scope of manufacturing applications."
+U3EFVL9F,Exclude,E2,95,"The abstract discusses federated learning in IoT systems, which is outside manufacturing."
+U54F8N28,Include,,75,"While the abstract discusses federated learning in an e-commerce context, it explicitly mentions its application to industrial product retrieval and data security, suggesting potential transferability to manufacturing."
+U5WPSRFC,Exclude,E5,100,The abstract clearly states this is a broad literature review without own contribution.
+U6BGIA47,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+U6M8ZES5,Exclude,E2,95,"The paper focuses on cyber-attack detection in IIoT using GA and DL, unrelated to federated learning in manufacturing."
+U6WV4CTR,Exclude,E5,95,The abstract explicitly states it is a systematic literature review without own contribution.
+U7U49P8X,Exclude,E5,100,The abstract clearly states it is a survey without own contribution.
+U85X24LJ,Exclude,E2,100,The abstract discusses Blockchain and Generative AI in healthcare with no mention of manufacturing.
+U9Q46P4G,Exclude,E5,100,The abstract explicitly states this is a survey concentrating on the security challenges of SDN without original research contribution.
+UC4XQGLY,Exclude,E2,100,The paper focuses on federated learning for IoMT cybersecurity in healthcare.
+UCCYR6DP,Exclude,E2,95,"The abstract clearly discusses IoT-ML applications in agriculture, not manufacturing."
+UEKVW5CW,Exclude,E2,95,"The paper discusses predictive maintenance for connected vehicles, which is outside the manufacturing scope."
+UG79BIQZ,Exclude,E5,90,
+UGCHRIQB,Exclude,E5,95,The abstract explicitly states that the paper is a literature review without own contribution.
+UGKL7A4Q,Include,,95,The abstract discusses federated learning applied to intrusion detection in Industry 4.0 with real-world industrial datasets.
+UHFUH5X7,Exclude,E2,95,The paper focuses on cybersecurity applications in IoT/IIoT rather than manufacturing.
+UJEZFIXU,Exclude,E2,100,The abstract clearly discusses a smart home environment application.
+UJLQP28N,Exclude,E2,100,"The abstract discusses federated learning in cybersecurity for DDoS attack detection, which is outside the manufacturing domain."
+UK45FPKI,Exclude,E2,95,"The abstract discusses federated learning in the context of industrial IoT (IIoT) adversarial defense, but does not explicitly discuss transferable models to manufacturing processes or operations."
+UKJVQS6F,Exclude,E2,100,The abstract clearly discusses IoT integration in healthcare.
+UM5YWCER,Exclude,E2,70,The paper focuses on security for IoT devices in smart grids and industrial control systems rather than manufacturing processes.
+UMATANIK,Exclude,E2,95,The abstract clearly discusses federated learning in healthcare.
+UMICHQHF,Include,,95,The abstract discusses federated learning applied to manufacturing for machine health monitoring.
+UMNB82CP,Exclude,E2,95,"The research focuses on bearing health monitoring using ML models, not federated learning in manufacturing."
+UMQZEZQ9,Exclude,E5,100,The abstract describes a literature review or survey focused on economic aspects of knowledge sharing in AI services without presenting an applied implementation of federated learning in manufacturing.
+UPDLRIRK,Exclude,E5,100,The abstract clearly states it is a literature review without presenting original research or models.
+UQ29B7T3,Include,,85,The abstract discusses federated learning but does not provide specific details about its application in manufacturing or transferability to manufacturing contexts.
+UQ8BJKDZ,Exclude,E5,100,"The abstract describes a literature review or survey without presenting any new contribution, focusing on existing algorithms and their performance with different learning curves."
+UQS8HY54,Exclude,E2,95,"The abstract discusses IoT applications in smart cities, not manufacturing."
+US82T35H,Exclude,E5,30,The abstract does not describe a novel implementation or application of federated learning in manufacturing; it discusses an IDS framework using XAI for ICS security.
+USLX6Y7H,Include,,95,"The abstract discusses federated learning applied to additive manufacturing for defect detection, which falls within the scope of manufacturing applications."
+UTPD6JC4,Include,,80,The abstract does not specify an application outside manufacturing or indicate it is a literature review without own contribution.
+UUDGZFKK,Include,,100,The abstract does not mention federated learning outside manufacturing or state it is a literature review.
+UUJFYUCH,Include,,85,The abstract discusses federated learning applied to manufacturing for data integrity and collaboration among industrial users.
+UVT4VJEG,Exclude,E2,95,"The paper focuses on a trust management scheme for IoT networks, which is outside the scope of federated learning in manufacturing."
+UVY4JMGB,Exclude,E2,100,"The abstract mentions potential applications in medical image retrieval and privacy-conscious customer service bots, which are outside manufacturing."
+UW6Q5Y24,Exclude,E5,100,The abstract clearly states this is a literature review without own contribution.
+UYXU3LH5,Exclude,E2,95,"The abstract discusses Autonomous Vehicles (AVs) in military and civilian environments, which is outside manufacturing."
+V3A82J23,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive survey of existing literature on security and privacy in ISAC-enabled wireless networks without presenting its own contribution.
+V3SU39AY,Exclude,E2,95,The abstract discusses IIoT security and does not mention federated learning or manufacturing.
+V4FN68TB,Exclude,E2,100,"The abstract discusses IoT security and intrusion detection in general, not specifically manufacturing."
+V5C4PCVR,Exclude,E2,95,"The abstract discusses trust evaluation in beyond-5G/6G networks, which is outside the manufacturing domain."
+V5DGUQZB,Exclude,E2,95,"The paper discusses UAV inspection in power systems, which is outside the manufacturing domain scope."
+V5T3AUCK,Exclude,E2,95,"The abstract discusses federated learning in the context of cyber risk management, not manufacturing."
+V6VM53WP,Include,,100,The abstract does not mention an application outside manufacturing.
+V77Z5Z9G,Exclude,E2,95,The abstract discusses precision spraying technology in agriculture using UAVs and pesticides.
+V7MYRPNU,Include,,95,"The abstract focuses on manufacturing process optimization using data integration, without mentioning federated learning or applications outside of manufacturing."
+V8Y8F2HQ,Exclude,E2,95,"The abstract discusses foodborne pathogen detection in healthcare, not manufacturing."
+VAG3DZZA,Exclude,E5,100,The abstract describes the study as investigating the role of AI in cybersecurity for digital twins without mentioning any original research or contribution.
+VAIAJT2Y,Exclude,E2,100,The abstract clearly discusses AI applications in healthcare.
+VCFKCB3U,Exclude,E2,95,"The abstract discusses an AI model and blockchain application for cybersecurity of IoT devices in Indonesia, which is outside the manufacturing domain."
+VCSZP4N8,Exclude,E2,100,The abstract discusses applications outside manufacturing such as healthcare IoT.
+VDDW57X2,Include,,90,The abstract focuses on deep learning for quality control in textiles without mentioning federated learning or its transferability to other manufacturing sectors.
+VDSFNCGW,Exclude,E2,95,"The study focuses on cybersecurity for OT/IT systems using a Digital Twin Security Framework Architecture, which is unrelated to federated learning in manufacturing."
+VESUYTTQ,Exclude,E5,100,The abstract clearly states it is a review of optimization algorithms for VLC systems without presenting original research.
+VF4SKHZV,Exclude,E2,95,"The abstract discusses federated learning in the context of drones and 6G technology, which is outside manufacturing."
+VFC4M3RQ,Include,,80,The paper addresses challenges relevant to manufacturing while noting healthcare applications without excluding potential relevance to manufacturing.
+VGIFDR4E,Exclude,E2,95,The abstract discusses applications in healthcare and other non-manufacturing domains.
+VGNMDX7L,Exclude,E2,95,The abstract discusses federated learning in a self-skin care application system which is outside manufacturing.
+VGWZIH98,Exclude,E2,95,The abstract discusses phishing detection in Industrial IoT but does not mention manufacturing or transferable models to manufacturing.
+VIA658PU,Exclude,E5,90,The abstract describes a literature review or survey without own contribution.
+VJB2TCY9,Exclude,E5,100,The abstract clearly states that this is a literature review summarizing state-of-the-art research in combining blockchain and machine learning across various applications.
+VJUL49AP,Exclude,E2,30,"The abstract discusses an application of federated learning in a workplace productivity analysis context, which is not explicitly manufacturing."
+VKXP2FZI,Exclude,E2,100,"The abstract discusses battery life prediction in chemistry, which is outside manufacturing scope."
+VKYIJWSY,Exclude,E2,95,The abstract discusses applications in healthcare and industrial systems but does not provide evidence for transferable models to manufacturing.
+VLMZUZCF,Exclude,E2,95,"The abstract clearly states the application is in geological studies and hydrocarbon explorations, not manufacturing."
+VQNKFKR9,Include,,95,"The abstract mentions the application of federated learning in a manufacturing context (fineblanking), which aligns with the review's scope."
+VS2HV86D,Exclude,E2,95,"The paper focuses on trajectory planning for UAVs using a novel algorithm, which is unrelated to federated learning in manufacturing."
+VSHRKNJ5,Exclude,E5,100,The abstract clearly states that this is a bibliometric analysis and literature review without presenting original research or application.
+VUEEUWHS,Exclude,E2,95,The abstract discusses network slicing in telecommunications and does not mention manufacturing.
+VVJAEVKY,Exclude,E5,100,The abstract clearly states this is a comprehensive review without presenting original research or application.
+VVJRRFFR,Exclude,E2,100,The abstract discusses IoT applications in healthcare and other domains outside manufacturing.
+VWHP8MNI,Exclude,E2,95,"The abstract discusses an application of federated learning (or a related technique) in the energy sector, not manufacturing."
+VZXP36H5,Include,,95,"The abstract discusses federated learning applications in fault diagnosis for industrial machinery, which falls within the manufacturing domain."
+W2DSB55E,Include,,95,The abstract discusses federated learning in the context of advanced manufacturing sectors in Taiwan.
+W2UQD4DE,Exclude,E2,95,"The abstract discusses IoT security and machine learning techniques applied to malware detection, which is outside manufacturing."
+W38XKRGE,Exclude,E5,90,The abstract describes a literature review or vision article without presenting original research or implementation details.
+W3V6IDKE,Exclude,E5,100,The abstract clearly states this is a systematic literature review without own contribution.
+W5ZJCUQU,Exclude,E5,100,The abstract clearly states this is a systematic literature review without original research contribution.
+W6IDR7LU,Exclude,E2,95,"The study focuses on supply chain logistics efficiency using IoT and ML, which is outside the scope of manufacturing."
+W6RB9442,Include,,95,The abstract discusses federated learning applications in smart manufacturing and specifically mentions the automotive industry.
+W8C6TIT8,Exclude,E2,95,"The abstract discusses malware detection in digital infrastructure, which is outside the manufacturing domain."
+W8NLYVWW,Include,,85,"The abstract discusses a federated learning prototype for IoT in an airport setting, which includes manufacturing-related use case of modeling conveyor states."
+WAJHJ252,Include,,85,The abstract does not mention an application outside manufacturing or indicate it is a literature review.
+WAMQATPM,Exclude,E2,100,"The abstract discusses AI integration in sustainability education, which is outside manufacturing."
+WBW9UKXN,Exclude,E5,90,The abstract describes a literature review of security threats and countermeasures in cloud-IoT environments without presenting original research or application.
+WC2GENEF,Include,,85,"The abstract discusses a federated learning application within the context of IIoT, which is relevant to manufacturing. It does not explicitly exclude transferability to manufacturing and thus should be included for further evaluation."
+WCR2RREL,Exclude,E2,100,"The abstract discusses DDoS detection in IoT, which is outside manufacturing."
+WD6IQLSK,Include,,95,The abstract discusses federated deep learning applied to manufacturing systems for monitoring mobile resources.
+WEFFNLRY,Include,,95,"The abstract discusses a federated learning application in an Industry 4.0 environment, which falls under manufacturing."
+WG6WBJAK,Include,,95,"The abstract discusses a federated learning framework applied in the context of smart grids within Industry 5.0, which falls under manufacturing-related applications."
+WGYX34PL,Exclude,E5,100,The abstract explicitly states it is a survey without own contribution.
+WJ3GQ9C6,Exclude,E2,95,"The study focuses on water hammer phenomena in pipeline systems using deep learning for prediction and protection optimization, clearly outside manufacturing industry applications."
+WJDK286K,Exclude,E5,90,The abstract clearly states that this is a comprehensive review paper without presenting any original research or implementation.
+WKG2FTKB,Exclude,E5,90,The abstract clearly states that this is a systematic review without presenting original research or implementation.
+WKIAXB9J,Exclude,E2,100,"The abstract discusses a hybrid Deep Learning model applied to cybersecurity in a 6G-IIoT environment, which is outside the manufacturing domain scope."
+WKPU9F2B,Include,,95,"The abstract discusses federated learning applied within an Industrial Internet of Things (IIoT) context, which falls under manufacturing or related industry applications."
+WMDUJIN3,Exclude,E2,95,"The abstract clearly discusses federated learning applied to agriculture, not manufacturing."
+WMK9SFVV,Exclude,E2,100,"The abstract discusses cybersecurity in IoT and edge computing, which is outside the manufacturing domain."
+WNJV88UA,Include,,90,The abstract discusses AI-driven infrastructures in materials discovery and manufacturing but does not provide evidence of a specific federated learning application or literature review without own contribution.
+WNLTKEP3,Include,,95,"The abstract discusses federated learning in the context of Industry 4.0 and does not exclude manufacturing, nor is it a literature review without its own contribution."
+WNN27GGA,Exclude,E2,100,The abstract clearly discusses a medical data sharing model.
+WNT3WKCU,Exclude,E2,95,"The paper focuses on cyber threat detection using deep neural networks and optimization techniques, which is outside the scope of federated learning applications."
+WPF3RRV7,Exclude,E2,100,The abstract discusses IoT security rather than manufacturing applications.
+WPM44HT6,Exclude,E5,100,The abstract explicitly states it is a Systematic Literature Review without presenting original research.
+WQRLVL9D,Exclude,E5,90,The abstract clearly states that this is a review of current trends and challenges in ML-driven approaches to energy systems.
+WTSTHJQ2,Include,,95,The abstract does not provide clear evidence that the FL application is outside manufacturing or that it is a literature review without own contribution.
+WV4QJ92S,Exclude,E5,100,The abstract describes an approach for cloud computing and networking without presenting any specific empirical research or novel application.
+WV95C2VZ,Exclude,E2,100,The abstract explicitly mentions cross-industry applicability to finance.
+WVHYWUSF,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+WWKAQL3R,Exclude,E2,98,"The abstract discusses food safety and security in the context of pandemics, which is outside manufacturing."
+WX43W2V8,Include,,98,"The abstract discusses a specific application of FL for intelligent manufacturing within industrial Internet of Things (IIoT), which falls under the review scope."
+WXTDV3QV,Exclude,E5,90,The abstract explicitly states it is a systematic literature review without own contribution.
+WXXBWN4Z,Exclude,E2,100,The abstract discusses an application in agriculture and food supply chain management.
+WY7U7GCW,Exclude,E2,95,The paper focuses on applications in consumer electronics and does not discuss manufacturing.
+WZACDPUN,Exclude,E2,95,"The paper focuses on federated learning applied to IoT for trust and energy-aware routing, not manufacturing."
+X3M65BSN,Exclude,E2,95,"The paper discusses federated learning applied to IoT marine vehicles, not manufacturing."
+X58NMJ94,Exclude,E2,95,The abstract discusses a hybrid model combining text and image processing but does not mention manufacturing.
+X6SNDIX4,Include,,95,"The abstract discusses ISAC in CPS for smart factories, which aligns with the manufacturing scope."
+X6TIU49U,Exclude,E2,100,"The abstract discusses Intrusion Detection Systems in SCADA environments, which are related to cybersecurity in industrial control systems but does not mention federated learning or manufacturing applications."
+X9FUIUVJ,Exclude,E5,100,The abstract describes a literature review and provides guidelines based on trends without presenting new empirical research or implementation details.
+X9UN7FYB,Exclude,E5,100,The abstract clearly states that it is a review exploring various ML techniques used in predicting mechanical behavior of composite materials.
+XAMFU3WX,Include,,95,"The abstract discusses an application of federated learning in smart factories, which falls within the manufacturing domain."
+XAN9C7PT,Include,,95,"The abstract discusses federated learning applied to high-dimensional industrial data, which falls within the scope of manufacturing applications."
+XD9BB8H9,Exclude,E5,90,
+XDFKVB2V,Exclude,E2,100,"The abstract discusses vehicular networks in IoV, which is outside manufacturing."
+XDKYNM6F,Include,,100,The abstract does not mention federated learning or specific applications within manufacturing.
+XELN5VSH,Exclude,E5,90,
+XF35CLEN,Include,,95,The abstract discusses applications in manufacturing (Industry 4.0) and mentions potential transferability to other domains like healthcare but does not focus on a specific implementation outside of manufacturing.
+XFRZF5ZL,Exclude,E5,90,The abstract clearly states it is a systematic review with no original contribution.
+XGV47VFS,Exclude,E2,100,"The abstract focuses on network security for 5G technology, not on federated learning applications in manufacturing."
+XIWUIVZR,Include,,95,"The abstract discusses federated learning in the context of IIoT for Industry 4.0, which falls within manufacturing."
+XJ7FPH72,Include,,95,The abstract focuses on predictive maintenance for aircraft engines using a CNN-GRU model and does not mention federated learning or any transfer to manufacturing contexts.
+XL6EUN6L,Include,,100,The abstract discusses a real-world application of federated learning in manufacturing machining processes.
+XLSKPVGM,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+XLYTBQHY,Exclude,E5,90,"The abstract describes a framework and discussion on incorporating AI technologies into competency hubs, which is theoretical and does not present an original empirical study or implementation."
+XMDCSJ7C,Exclude,E5,100,The abstract clearly states that the paper is a survey without original contribution.
+XMUTP5E9,Exclude,E5,90,The abstract describes a literature review and conceptual framework without presenting an original empirical study or implementation.
+XPAI8KSV,Exclude,E2,100,"The abstract discusses federated learning applied to Intrusion Detection Systems in Cyber-Physical Systems (CPS) for 6G IoT, which is outside the manufacturing domain."
+XR5X73Z4,Exclude,E2,95,"The paper focuses on precision farming and healthcare as use cases for federated learning with blockchain, outside manufacturing."
+XS4XLKTM,Exclude,E5,100,The abstract clearly states that the paper is a bibliometric evaluation and survey without presenting original research or application.
+XSDUGRZB,Exclude,E5,90,The abstract clearly states this is a systematic literature review without own contribution.
+XSYHKFTZ,Exclude,E2,95,"The abstract discusses Digital Twin technology applied to urban heat management, which is outside manufacturing."
+XTZMJDGN,Exclude,E2,95,"The abstract clearly discusses a solution in financial services, not manufacturing."
+XUVUXD2G,Exclude,E5,100,The abstract clearly states it is a systematic review without presenting any original contribution.
+XVV2ZLQN,Exclude,E2,100,"The abstract discusses an IDS framework for cybersecurity in IoT, which is outside the manufacturing domain."
+XVXKXQ3T,Exclude,E2,95,"The abstract clearly discusses in silico twins in precision medicine, not manufacturing."
+XWDVIR5F,Include,,100,The abstract does not mention federated learning or applications outside manufacturing.
+XWVDC7ML,Exclude,E2,95,The abstract discusses AI-enhanced digital twins in industry but does not mention federated learning or manufacturing-specific applications of FL.
+XZL6KLEF,Exclude,E5,100,The abstract clearly states this is a systematic literature review without original contribution.
+XZY3WI3J,Exclude,E2,95,The abstract clearly states that the application is in IoT environments including healthcare.
+Y2WD86MK,Exclude,E5,100,The abstract explicitly states it is a review paper without own contribution.
+Y55Z6LSR,Exclude,E2,100,The study is focused on precision farming and does not discuss manufacturing.
+Y5LH8Y4G,Exclude,E5,95,The abstract clearly states it is a systematic literature review without own contribution.
+Y5P5GSVU,Exclude,E5,100,The abstract clearly states that it is a review paper without own contribution.
+Y5VMG7L5,Exclude,E5,100,The abstract clearly states that this is a bibliometric analysis without original research contribution.
+Y63S9VCG,Include,,95,"The abstract discusses federated learning applied to industrial IoT systems, which falls within manufacturing scope."
+Y8SF3SKK,Exclude,E5,100,The abstract clearly states this is a survey without own contribution.
+Y8T35EAX,Exclude,E2,95,The abstract discusses IoT ecosystems and sensor data streams without mentioning manufacturing.
+Y9N6W2HQ,Exclude,E2,100,The paper discusses FL application in IoT malware detection which is outside manufacturing.
+Y9XIP7NV,Exclude,E2,95,"The paper focuses on IoT and thermal comfort classification, not manufacturing."
+YATU4QZ6,Include,,95,"The abstract discusses federated learning applied to defect detection tasks in an industrial setting, which falls within the scope of manufacturing."
+YDYPWJTV,Include,,100,"The abstract discusses a federated learning application in manufacturing (CNC machines), which falls within the review scope."
+YFWYPMJN,Exclude,E5,100,The abstract clearly states this is a review of recent research contributions on serverless computing in the edge-to-cloud continuum without presenting original empirical work.
+YFYIBBSG,Exclude,E2,85,"The paper focuses on uplink transmissions and scheduling for FL traffic in a 5G NR IIoT scenario, without specific mention of manufacturing applications."
+YGTKHNFK,Exclude,E5,95,The abstract clearly states this is a Systematic Literature Review (SLR) without own contribution.
+YHIY6EIW,Exclude,E2,95,"The abstract discusses mobile edge computing (MEC) for applications like autonomous driving and augmented reality, which are outside manufacturing."
+YI5K5659,Include,,95,The abstract describes an application in IIoT with federated learning but does not mention any specific manufacturing industry applications or transferable models to manufacturing.
+YIDGRNGB,Exclude,E2,95,"The abstract discusses federated learning in Power Internet of Things (PIoT), which is outside the manufacturing domain."
+YKB5HGHD,Exclude,E5,98,The abstract clearly states it is a comprehensive survey on FL for IDSs in IoT networks without presenting its own new contribution.
+YKFYV2DG,Exclude,E2,100,"The abstract clearly states that the paper focuses on electricity theft detection in power grids, which is outside manufacturing."
+YMP5VU4D,Exclude,E2,95,"The paper discusses federated learning applied to license plate recognition for traffic management, not manufacturing."
+YP79I34A,Exclude,E2,95,The abstract discusses applications in construction rather than manufacturing.
+YPAIFY92,Exclude,E2,95,"The study applies federated learning to predictive maintenance for satellite battery systems, which is outside the manufacturing industry scope."
+YPGWCP4F,Exclude,E5,100,The abstract clearly states that the article is a systematic survey without presenting any original contribution.
+YPQGBXHK,Include,,95,"The abstract discusses a federated learning application within semiconductor manufacturing, which is part of the broader manufacturing domain."
+YRS5MW78,Exclude,E2,98,The abstract clearly discusses a federated learning application in banking for fraud detection.
+YSMMF5VK,Exclude,E5,90,The abstract clearly states this is a systematic literature review without presenting original research or implementation.
+YUFE3NBC,Exclude,E2,95,"The abstract discusses AI applications in agriculture, specifically for fruit quality monitoring."
+YVGMB9TR,Exclude,E2,95,"The paper focuses on predicting workplace conflicts using HR and communication data across various industries, not manufacturing-specific applications of federated learning."
+YVNK2JQF,Exclude,E2,95,"The work focuses on wireless sensor networks and fog computing for energy efficiency and security in IoT environments, not manufacturing."
+YVUQHI7U,Exclude,E2,100,The abstract clearly states that the paper focuses on mobile healthcare (mHealth) delivery and cyber threats within mHealth applications.
+YVZLDAT4,Include,,95,"The abstract discusses an application within a smart factory, which falls under manufacturing."
+YWCAIESA,Include,,95,This abstract focuses on anomaly detection in fiber optic cable production using unsupervised learning techniques and does not mention federated learning or its application outside of manufacturing.
+YWFV6NIF,Exclude,E2,95,"The abstract discusses Large Language Models (LLMs) and their supply chains in the context of sustainability, which is outside manufacturing."
+YY4EBZCD,Exclude,E5,100,The abstract explicitly states this is a systematic review without original contribution.
+YYHNGCQ5,Exclude,E5,90,The abstract clearly states it is a systematic review without presenting original research or application.
+YZITM8C7,Exclude,E5,90,The abstract clearly states that this is a survey paper focusing on deep reinforcement learning solutions for resource scheduling in multi-access computing.
+YZWPVF93,Exclude,E2,95,The abstract discusses application in healthcare and industrial IoT but does not explicitly discuss transferable models to manufacturing.
+Z2KPYQ5I,Exclude,E2,90,The study focuses on power grid systems and does not mention manufacturing industries.
+Z2UFKJYT,Exclude,E2,50,The abstract discusses applications in IoT and IoV which are outside manufacturing.
+Z2XJY3EB,Exclude,E2,100,The abstract clearly discusses federated learning in the context of healthcare systems.
+Z4FRE9XL,Exclude,E5,100,The abstract clearly states it is a bibliometric and thematic review without own contribution.
+Z64T84IR,Exclude,E2,95,"The abstract clearly states that FEDGE is designed for efficient AI deployment in satellite constellations, which falls outside manufacturing."
+ZAFVHJ4V,Exclude,E2,100,"The abstract clearly states that the FL application is in the railway domain, not manufacturing."
+ZBR8ND7H,Exclude,E2,100,"The abstract discusses resource allocation for IoT networks, which is outside manufacturing."
+ZCK264BW,Exclude,E5,100,The abstract clearly states this is an overview of recent works and highlights promising directions for NOMA research without presenting original empirical work.
+ZCKN39B4,Include,,100,"The paper discusses federated learning in an edge computing context, which is not specified as being outside of manufacturing."
+ZCMIA3R7,Exclude,E2,100,"The abstract discusses IoT security using machine learning algorithms, which is outside the manufacturing domain."
+ZCVZL5FI,Include,,80,The abstract does not mention federated learning or applications outside manufacturing.
+ZESZVCBA,Exclude,E5,100,The abstract clearly states that this paper reviews applications without presenting its own contribution.
+ZGC76NRG,Include,,95,"The abstract discusses an application in IoT cybersecurity rather than manufacturing, but does not explicitly mention transferability to manufacturing; thus, it is included pending full-text review for potential relevance."
+ZGIRGK5N,Include,,95,The abstract does not specify an application outside manufacturing and is not a literature review.
+ZIKMI56Y,Exclude,E2,95,"The abstract clearly states the application of federated learning in the building energy sector, which is outside manufacturing."
+ZITX5QPI,Exclude,E2,95,"The paper applies DL models in various non-manufacturing sectors like pharmaceuticals, agriculture, and energy."
+ZJ8TULU9,Include,,70,The abstract does not mention federated learning or applications outside of manufacturing.
+ZMZWSALZ,Include,,95,"The abstract discusses federated learning applied within AIoT for manufacturing, which falls under the scope of manufacturing applications."
+ZN9JXDAW,Exclude,E2,100,The abstract clearly discusses healthcare applications of blockchain and AI during the COVID-19 pandemic.
+ZNREV9GJ,Include,,95,The abstract discusses FL application in manufacturing for time-series forecasting with practical guidelines and proof of concept.
+ZP5I846K,Exclude,E2,95,The study focuses on federated learning applied to battery recycling rather than manufacturing processes.
+ZPH6NQEQ,Exclude,E5,100,The abstract clearly states it is a bibliometric and thematic review without own contribution.
+ZPT2L3UK,Exclude,E5,100,The abstract clearly states it is a comprehensive review of research applications in smart manufacturing.
+ZQMEYHIG,Exclude,E2,95,The abstract discusses AI applications in fintech and cybersecurity.
+ZQZFHK8K,Exclude,E2,95,FL application in campus security (IoT) unrelated to manufacturing.
+ZRB6Q3PW,Exclude,E2,95,The abstract discusses applications of federated learning in healthcare and other non-manufacturing sectors.
+ZRQVLF9P,Exclude,E2,100,The paper focuses on electric power consumption forecasting in the energy sector.
+ZSH3PN4N,Exclude,E2,100,"The abstract discusses Zigbee technology and its security measures in IoT systems, which is unrelated to federated learning in manufacturing."
+ZSH49MJ4,Exclude,E5,100,The abstract clearly states that this is a scoping review consolidating knowledge on AI in engineering education.
+ZT96LULS,Exclude,E5,100,The abstract clearly states that the paper is a comprehensive review of IG-process-based degradation modeling without presenting any original research or application.
+ZTJDXH32,Exclude,E5,90,The abstract clearly states that the paper is a review/survey without own contribution.
+ZU3NASZZ,Exclude,E2,95,"The paper discusses FL applied to IoT and IIoT for cybersecurity purposes, not manufacturing."
+ZWM3WR9L,Exclude,E5,0,This is a literature review without presenting its own novel contribution.
+ZX26M4YI,Include,,95,The paper applies federated learning to fault detection in distributed manufacturing systems.
+ZX28HS2Q,Exclude,E5,90,The abstract clearly states that it is a review examining advancements in non-destructive electronic sensing technologies without presenting original research or implementation.
+ZXMIEQFW,Exclude,E5,20,The abstract does not describe a federated learning application in manufacturing or any other industry; it discusses machine unlearning techniques in neural networks.
+ZY5ZRW2J,Exclude,E5,100,The abstract clearly states that this is a systematic survey on Federated Learning without presenting original research or application.
+ZYPKSPGR,Exclude,E5,100,The abstract clearly states this is a systematic literature review without own contribution.
+ZYYHT4XC,Exclude,E2,95,The abstract clearly states that the research is about IoT in healthcare.

@@ -1,0 +1,8 @@
+.vscode
+.env
+.venv
+__pycache__/
+.pytest_cache/
+
+# Interview responses: pseudonymised personal data, held back participant consent pending
+factorial_survey/interviews/

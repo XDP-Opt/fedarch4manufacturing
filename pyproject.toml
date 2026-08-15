@@ -1,0 +1,12 @@
+[project]
+name = "flta26"
+version = "1.0.0"
+description = "Replication material for a systematic literature review and factorial survey on federated learning in manufacturing"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pydantic-ai>=2.0.0",
+    "python-dotenv>=1.0.0",
+    "pyzotero>=1.13.2",
+    "tqdm>=4.66.0",
+]

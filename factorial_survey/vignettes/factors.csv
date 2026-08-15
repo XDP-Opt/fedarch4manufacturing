@@ -1,0 +1,10 @@
+Nr,Data sensitivity,Aggregator,Number of participants,Business relationship with other participants,Expected increase in model performance,Incentive model
+1,Medium,Network Administrative Organization,5,competitors,medium,subscription fee
+2,Low,Network Administrative Organization,20+,competitors,small,compensation per contribution
+3,High,Self-Governed Network,10,competitors,medium,No Payment
+4,High,Lead Organization Network,5,collaborative cause,large,compensation per contribution
+5,High,Lead Organization Network,10,competitors,medium,compensation per contribution
+6,Medium,Network Administrative Organization,5,competitors,medium,compensation per contribution
+7,Low,Network Administrative Organization,20+,competitors,small,subscription fee
+8,High,Lead Organization Network,5,collaborative cause,large,subscription fee
+9,High,Lead Organization Network,10,competitors,medium,subscription fee

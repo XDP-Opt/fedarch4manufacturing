@@ -1,0 +1,25 @@
+{
+    "Aggregator type (A)": {
+        "0": "Not specified",
+        "1": "Lead Organization Network",
+        "2": "Self-Governed Network",
+        "3": "Network Administrative Org"
+    },
+    "Business relationship (B)": {
+        "0": "Not specified",
+        "1": "Collaborative cause",
+        "2": "Neutral",
+        "3": "Competitor"
+    },
+    "Incentive mechanism (C)": {
+        "0": "Not specified",
+        "1": "Compensation",
+        "2": "No incentive",
+        "3": "Fee"
+    },
+    "Deployment context (D)": {
+        "0": "Not specified",
+        "1": "Academic Lab Experiment",
+        "2": "Productive Industrial Environment"
+    }
+}
