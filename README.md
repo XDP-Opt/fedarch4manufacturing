@@ -182,7 +182,3 @@ read on their own.
 
 [`abstract_screening.py`](literature_study/academic%20sources/abstract_screening.py) is
 licensed under the [MIT License](LICENSE).
-
-`corpus.csv` describes works by other authors. It records facts — title, authors, year,
-venue, identifiers — and contains no abstracts or other protected text, so there is
-nothing in it over which any rights are claimed or granted.
