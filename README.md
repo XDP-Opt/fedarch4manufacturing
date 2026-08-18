@@ -1,6 +1,6 @@
-# Federated learning in manufacturing — replication material
+# Federation Archetypes in Manufacturing — replication material
 
-Data and code behind two studies on federated learning (FL) in manufacturing:
+Data and code behind our study *Federation Archetypes in Manufacturing: Organizational Structures for Federated Learning and Their Acceptance*:
 
 1. a **systematic literature review** of academic papers and company sources, screened
    in stages and classified along four dimensions;
@@ -177,6 +177,9 @@ output file, so an interrupted run can simply be started again.
 Reproducing the published numbers exactly requires access to the Zotero library the
 corpus lives in. The results in this repository are the output of that run and can be
 read on their own.
+
+## Citing
+Citiation will follow soon
 
 ## Licensing
 
